@@ -1,123 +1,123 @@
 main:
-  - name: Learn
+  - name: เรียนรู้
     URL: learn
     weight: 1
     identifier: learn
-  - name: Books
+  - name: หนังสือ
     parent: learn
     URL: learn/books
     weight: 2
-  - name: Learning Path
+  - name: เส้นทางการเรียนรู้
     parent: learn
     URL: learn/learning-path
     weight: 3
-  - name: Patterns
+  - name: แพทเทิร์น
     parent: learn
     URL: learn/patterns
     weight: 4
-  - name: Research
+  - name: งานวิจัย
     parent: learn
     URL: learn/research
     weight: 5
-  - name: Events
+  - name: กิจกรรม
     URL: events
     weight: 2
-  - name: Community
+  - name: ชุมชน
     identifier: community
     URL: community
     weight: 3
-  - name: Stories
+  - name: เรื่องราว
     URL: stories
     weight: 4
-  - name: Services Directory
+  - name: รายชื่อผู้ให้บริการ
     URL: community/services
     parent: community
     weight: 2
-  - name: About
+  - name: เกี่ยวกับ
     identifier: about
     URL: about
     weight: 5
-  - name: Announcements
+  - name: ประกาศ
     URL: about/announcements
     parent: about
     weight: 1
-  - name: Board & Governance
+  - name: คณะกรรมการและธรรมาภิบาล
     URL: about/board
     parent: about
     weight: 2
-  - name: Members
+  - name: สมาชิก
     URL: about/members
     parent: about
     weight: 3
-  - name: Sponsors
+  - name: ผู้สนับสนุน
     URL: about/sponsors
     parent: about
     weight: 4
-  - name: Code of Conduct
+  - name: จรรยาบรรณ
     URL: about/codeofconduct
     parent: about
     weight: 5
-  - name: Contact Us
+  - name: ติดต่อเรา
     URL: about/contact
     parent: about
     weight: 6
 footer_left:
-  - name: Learn
+  - name: เรียนรู้
     URL: learn
     weight: 1
     post: bold
-  - name: Books
+  - name: หนังสือ
     URL: learn/books
     weight: 2
-  - name: Learning Path
+  - name: เส้นทางการเรียนรู้
     URL: learn/learning-path
     weight: 3
-  - name: Patterns
+  - name: แพทเทิร์น
     URL: learn/patterns
     weight: 4
-  - name: Research
+  - name: งานวิจัย
     URL: learn/research
     weight: 5
 footer_middle:
-  - name: Events
+  - name: กิจกรรม
     URL: events
     weight: 1
     post: bold
-  - name: Community
+  - name: ชุมชน
     URL: community
     weight: 2
     post: bold
     pre: _blank
-  - name: Stories
+  - name: เรื่องราว
     URL: stories
     weight: 3
     post: bold
-  - name: Services Directory
+  - name: รายชื่อผู้ให้บริการ
     URL: community/services
     weight: 4
-  - name: Announcements
+  - name: ประกาศ
     URL: about/announcements
     weight: 5
 footer_right:
-  - name: About
+  - name: เกี่ยวกับ
     URL: about
     weight: 1
     post: bold
-  - name: Board & Governance
+  - name: คณะกรรมการและธรรมาภิบาล
     URL: about/board
     weight: 2
-  - name: Members
+  - name: สมาชิก
     URL: about/members
     weight: 3
-  - name: Sponsors
+  - name: ผู้สนับสนุน
     URL: about/sponsors
     weight: 4
-  - name: Code of Conduct
+  - name: จรรยาบรรณ
     URL: about/codeofconduct
     weight: 5
-  - name: Contact Us
+  - name: ติดต่อเรา
     URL: about/contact
     weight: 6
-  - name: Privacy Policy
+  - name: นโยบายความเป็นส่วนตัว
     URL: about/privacy
     weight: 7
