@@ -1,0 +1,31 @@
+join_slack: "เข้าร่วม Slack"
+more_videos: "วิดีโอเพิ่มเติม"
+
+# Mailing List
+join_mailing_list: "ร่วมรับจดหมายข่าว"
+enter_email: "กรอกอีเมล"
+subscribe: "สมัครรับ"
+
+# About
+about_innersource_commons: "InnerSource Commons เป็นชุมชนของผู้ประกอบการ InnerSource ที่ใหญ่ที่สุดในโลก มีเป้าหมายเพื่อสร้างและแบ่งปันความรู้เกี่ยวกับ InnerSource หรือการใช้หลักการที่ดีที่สุดของโอเพนซอร์สสำหรับการพัฒนาซอฟต์แวร์ภายในองค์กร"
+about_innersource_commons_history: "ก่อตั้งในปี 2015 InnerSource Commons ขณะนี้รองรับและเชื่อมโยงกับมากกว่า 1500 บุคคลจากกว่า 500 บริษัท สถาบันการศึกษา และหน่วยงานราชการ InnerSource Commons Foundation ได้รับการจดทะเบียนเป็นมูลนิธิในวันที่ 19 กุมภาพันธ์ 2020 และเป็นองค์กรไม่แสวงหาผลกำไรประเภท 501(c)(3) public charity"
+
+# Learn
+learn_button: เรียนรู้
+
+## Book
+author: ผู้แต่ง
+publication_date: วันที่เผยแพร่
+publisher: สำนักพิมพ์
+read_the_book: อ่านหนังสือ
+
+## Research
+read_research_report: อ่านงานวิจัย
+
+## Site Metadata
+meta_description: InnerSource Commons เป็นชุมชนที่กำลังเติบโตขึ้นของผู้ประกอบการที่มีเป้าหมายเพื่อสร้างและแบ่งปันความรู้เกี่ยวกับ InnerSource
+meta_keywords: InnerSource,Open source,silo,collaboration
+
+# License
+footer_content: |-
+  ไซต์นี้มีใบอนุญาตภายใต้ CC-BY-SA หากไม่ระบุไว้เป็นอย่างอื่น
