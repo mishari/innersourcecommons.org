@@ -1,7 +1,7 @@
 ---
-title: "About InnerSource Commons"
+title: "เกี่ยวกับ InnerSource Commons"
 subtitle: ""
-description: "The InnerSource Commons is a growing community of practitioners with the goal of creating and sharing knowledge about InnerSource."
+description: "InnerSource Commons เป็นชุมชนผู้ปฏิบัติงานที่กำลังเติบโตขึ้นมีจุดมุ่งหมายเพื่อสร้างและแบ่งปันความรู้เกี่ยวกับ InnerSource เข้ามาใช้ภายในองค์กร"
 draft: false
 ---
 
@@ -14,7 +14,7 @@ draft: false
       <div class="col-md-7">
         <p>{{< about-text >}}
         </p>
-        <a href="/about/announcements" class="btn-link">Announcements <i class="ti-arrow-right"></i></a>
+        <a href="/about/announcements" class="btn-link">ประกาศ <i class="ti-arrow-right"></i></a>
       </div>
     </div>
   </div>
@@ -25,10 +25,9 @@ draft: false
   <div class="container">
     <div class="row text-right align-items-center">
       <div class="col-md-6">
-        <p class="section-title h2">InnerSource Commons Mission</p>
-        <p>Our mission is to establish a body of knowledge and to educate individuals, commercial and non-profit organizations, research centers, and other institutions about the successful adoption of InnerSource best practices. </p>
-        <p>We provide a safe environment for accumulating and sharing knowledge and experiences, finding best practices, building standards and tooling, producing educational materials, and fostering research to advance the understanding, adoption, and practice of InnerSource.
-        </p>
+        <p class="section-title h2">พันธกิจของ InnerSource Commons</p>
+				<p>พันธกิจของเราคือการสร้างองค์ความรู้และการให้การศึกษาแก่บุคคล, องค์กรทางธุรกิจและองค์กรไม่แสวงหาผลกำไร, ศูนย์วิจัยและสถาบันอื่น ๆ เกี่ยวกับการนำ InnerSource Best Practices ไปใช้อย่างประสบความสำเร็จ</p>
+				<p>เราจัดหาสภาพแวดล้อมที่ปลอดภัยสำหรับการสะสมและแบ่งปันความรู้และประสบการณ์, การสรรหา best practices, การสร้างมาตรฐานและเครื่องมือ, การผลิตสื่อการศึกษาและส่งเสริมการวิจัยเพื่อส่งเสริมความเข้าใจ, การนำไปใช้และการปฏิบัติ InnerSource</p>
       </div>
       <div class="col-md-6 mt-4 mb-4 mb-md-0 float-right">
         <img src="/images/about/illustrations/creative.png" class="img-fluid pl-4 pr-4">
@@ -45,10 +44,11 @@ draft: false
        <img src="/images/community/connection.png" class="img-fluid pl-4 pr-4">
       </div>
       <div class="col-md-6">
+				<p class="section-title h2">วิธีการทำงานของเรา</p>
+				<p>InnerSource Commons ใช้วิธี open source เพื่อให้องค์กรที่กำลังปฏิบัติ InnerSource ได้พื้นที่สำหรับการอภิปรายและปรับปรุงรูปแบบการปฏิบัติ InnerSource ผ่านการแบ่งปันประสบการณ์ (ภายใต้กฎ Chatham House Rule) การสร้างและตรวจทานแพทเทิร์น InnerSource และการแลกเปลี่ยนความคิดเห็นอย่างเปิดเผย</p>
+				<p>บุคคลที่สนใจและองค์กรต่าง ๆ ของสามารถมีส่วนร่วมและเสนอเนื้อหาให้กับ ISC ได้ โดยทั่วไปแล้วเนื้อหาที่นำเสนอจะพร้อมใช้งานภายใต้สัญญาอนุญาต <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a> ที่เครดิตต์กลับไปยัง InnerSourceCommons.org และไม่มีค่าธรรมเนียมใด ๆ ที่จะต้องเสียเงินในการเข้าร่วม</p>
+				<a href="/community/" class="btn-link">ดูวิธีการทำงานของเรา <i class="ti-arrow-right"></i></a>
           <p class="section-title h2">How We Work</p>
-          <p>The InnerSource Commons utilizes open source methods to provide organizations practicing InnerSource a forum for discussing and improving the practice of InnerSource through the sharing of experiences (under the <a href="https://www.chathamhouse.org/about-us/chatham-house-rule">Chatham House Rule</a>), creation and review of InnerSource patterns, and the open exchange of ideas.</p>
-        <p>Interested individuals and companies are welcome to participate and contribute content to the ISC. In general, contributed content will be made available under the <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a> attributed to InnerSourceCommons.org. No fees are required to participate.</p>        
-        <a href="/community/" class="btn-link">Check out how we work <i class="ti-arrow-right"></i></a>
         </div>
     </div>
   </div>
@@ -59,11 +59,10 @@ draft: false
   <div class="container">
     <div class="row text-right align-items-center">
       <div class="col-md-6">
-        <p class="section-title h2">InnerSource Commons Members</p>
-        <p>The InnerSource Commons community is open to all. Some community participants go above and beyond, and may be invited to become an ISC Member. The InnerSource Commons is a membership corporation, so ISC Members serve a similar role as shareholders in publicly traded corporations. </p>
-        <p>Members have particular rights in the ISC; for example, they may vote in board elections. To be eligible for Membership, a person must be nominated by a current Member. Membership is purely merit-based, free of any cost, and restricted to individuals.
-        </p>
-        <a href="/about/members" class="btn-link">All InnerSource Commons Members <i class="ti-arrow-right"></i></a>
+				<p class="section-title h2">สมาชิก InnerSource Commons</p>
+				<p>ชุมชน InnerSource Commons เปิดต้อนรับทุกคน อย่างไรก็ตาม ผู้เข้าร่วมชุมชนบางท่านที่ได้มีส่วนร่วมเกินความคาดหมาย อาจได้รับการเชิญเข้าร่วมเป็นสมาชิก InnerSource Commons โดย InnerSource Commons เป็น membership corporation ดังนั้นสมาชิก InnerSource Commons มีบทบาทคล้ายกับผู้ถือหุ้นในบริษัทที่มีการซื้อขายสาธารณะ</p>
+				<p>สมาชิกมีสิทธิพิเศษใน InnerSource Commons ตัวอย่างเช่นเขาสามารถลงคะแนนในการเลือกตั้งคณะกรรมการได้ หากต้องการเป็นสมาชิกจะต้องได้รับการเสนอชื่อโดยสมาชิกปัจจุบัน การเป็นสมาชิกจะพิจารณาจากผลงาน ไม่มีค่าใช้จ่าย และถูกจำกัดเฉพาะบุคคล</p>
+				<a href="/about/members" class="btn-link">ดูรายชื่สมาชิก InnerSource Commons ทั้งหมด <i class="ti-arrow-right"></i></a>
       </div>
       <div class="col-md-6 mt-4 mb-4 mb-md-0 float-right">
         <img src="/images/about/illustrations/notebook.png" class="img-fluid pl-4 pr-4">
@@ -80,9 +79,9 @@ draft: false
          <img src="/images/about/illustrations/team.png" class="img-fluid pl-4 pr-4">
       </div>
       <div class="col-md-6">
-          <p class="section-title h2">Board & Governance</p>
-          <p>InnerSource Commons is a 501(c)(3) non-profit organization governed by a set of corporate bylaws. The Board of Directors sets the policy and appoints officers that set and execute policy. The Board is elected by the Membership on a yearly basis.</p>
-          <a href="/about/board/" class="btn-link">Learn more about the ISC Board <i class="ti-arrow-right"></i></a>
+<p class="section-title h2">คณะกรรมการและธรรมาภิบาล</p>
+<p>InnerSource Commons เป็นองค์กรไม่แสวงหาผลกำไร 501(c)(3) ซึ่งมีการจัดการโดยกฎบัตรองค์กร โดยคณะกรรมการกำหนดนโยบายและแต่งตั้งเจ้าหน้าที่ที่กำหนดและปฏิบัติตามนโยบาย คณะกรรมการถูกเลือกโดยสมาชิกทุกปี</p>
+<a href="/about/board/" class="btn-link">เรียนรู้เพิ่มเติมเกี่ยวกับคณะกรรมการ ISC <i class="ti-arrow-right"></i></a>
         </div>
     </div>
   </div>
