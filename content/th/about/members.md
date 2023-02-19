@@ -1,18 +1,17 @@
 ---
-title: "Members"
+title: "สมาชิก"
 subtitle: ""
-description: "Some community participants go above and beyond, and may be invited to become an ISC Member."
+description: "ผู้เข้าร่วมชุมชนบางท่านที่ได้มีส่วนร่วมเกินความคาดหมาย อาจได้รับการเชิญเข้าร่วมเป็นสมาชิก ISC"
 image: "/images/logo.png"
 ---
 
-The InnerSource Commons (ISC) community is open to all. Some community participants go above and beyond, and may be invited to become an ISC Member.
-The InnerSource Commons is a membership corporation, so ISC Members serve a similar role as shareholders in publicly traded corporations.
+ชุมชน InnerSource Commons (ISC) ยินดีต้อนรับให้ทุกคนเข้าร่วม ผู้เข้าร่วมชุมชนได้มีส่วนร่วมเกินความคาดหมาย และอาจได้รับเชิญเข้าร่วมเป็นสมาชิกของ ISC
+InnerSource Commons เป็นองค์กร membership corporation ดังนั้นสมาชิกของ ISC มีบทบาทที่คล้ายกับเจ้าของหุ้นใน บริษัท จดทะเบียนในตลาดหลักทรัพย์
 
-Members have particular rights in the ISC; for example, they may vote in board elections.
-To be eligible for Membership, a person must be nominated by a current Member.
-Membership is purely merit-based, free of any cost, and restricted to individuals.
+มาชิกมีสิทธิพิเศษใน InnerSource Commons ตัวอย่างเช่นเขาสามารถลงคะแนนในการเลือกตั้งคณะกรรมการได้ หากต้องการเป็นสมาชิกจะต้องได้รับการเสนอชื่อโดยสมาชิกปัจจุบัน การเป็นสมาชิกจะพิจารณาจากผลงาน ไม่มีค่าใช้จ่าย และถูกจำกัดเฉพาะบุคคล
 
-## Members of the InnerSource Commons Foundation
+
+## รายชื่อสมาชิก InnerSource Commons Foundation
 
 * Ada Dai
 * Cedric Williams

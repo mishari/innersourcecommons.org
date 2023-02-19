@@ -60,7 +60,7 @@ draft: false
     <div class="row text-right align-items-center">
       <div class="col-md-6">
 				<p class="section-title h2">สมาชิก InnerSource Commons</p>
-				<p>ชุมชน InnerSource Commons เปิดต้อนรับทุกคน อย่างไรก็ตาม ผู้เข้าร่วมชุมชนบางท่านที่ได้มีส่วนร่วมเกินความคาดหมาย อาจได้รับการเชิญเข้าร่วมเป็นสมาชิก InnerSource Commons โดย InnerSource Commons เป็น membership corporation ดังนั้นสมาชิก InnerSource Commons มีบทบาทคล้ายกับผู้ถือหุ้นในบริษัทที่มีการซื้อขายสาธารณะ</p>
+				<p>ชุมชน InnerSource Commons เปิดต้อนรับทุกคน อย่างไรก็ตาม ผู้เข้าร่วมชุมชนบางท่านที่ได้มีส่วนร่วมเกินความคาดหมาย อาจได้รับการเชิญเข้าร่วมเป็นสมาชิก ISC โดย InnerSource Commons เป็น membership corporation ดังนั้นสมาชิก InnerSource Commons มีบทบาทคล้ายกับผู้ถือหุ้นในบริษัทที่มีการซื้อขายสาธารณะ</p>
 				<p>สมาชิกมีสิทธิพิเศษใน InnerSource Commons ตัวอย่างเช่นเขาสามารถลงคะแนนในการเลือกตั้งคณะกรรมการได้ หากต้องการเป็นสมาชิกจะต้องได้รับการเสนอชื่อโดยสมาชิกปัจจุบัน การเป็นสมาชิกจะพิจารณาจากผลงาน ไม่มีค่าใช้จ่าย และถูกจำกัดเฉพาะบุคคล</p>
 				<a href="/about/members" class="btn-link">ดูรายชื่สมาชิก InnerSource Commons ทั้งหมด <i class="ti-arrow-right"></i></a>
       </div>
