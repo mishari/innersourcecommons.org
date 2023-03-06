@@ -5,7 +5,7 @@ description: Recherche sur InnerSource, y compris les  "State of InnerSource Sur
 image: "images/learn/research.png"
 weight: 2
 aliases:
-    - /resources/research
+  - /resources/research
 ---
 
 La communauté des chercheurs a toujours été un allié solide d'InnerSource Commons depuis sa création. Apprenez-en davantage sur les enquêtes dites des "State of InnerSource Surveys" qui ont grandement amélioré notre compréhension de la mécanique de l'InnerSource et de la façon dont elle est appliquée dans l'industrie aujourd'hui.
