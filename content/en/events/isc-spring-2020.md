@@ -2,10 +2,11 @@
 layout: page
 title: 'Spring Summit 2020'
 image: "images/events/cities/madrid.jpeg"
-# post type (regular/featured)
+#post type (regular/featured)
 date: 2020-04-14
 youtubeLink: https://www.youtube.com/watch?v=glYcE3CEELI&list=PLCH-i0B0otNQeYBH5QvNRBDA3CMrS9lL9
 ---
+
 ### 14th to 15th April 2020, online
 
 The 10th InnerSource Commons Summit took place in *your living room*! ;) We went virtual - see details below. All the summit talks are now available on the <a href="https://www.youtube.com/playlist?list=PLCH-i0B0otNQeYBH5QvNRBDA3CMrS9lL9">InnerSource Commons YouTube channel</a>!
@@ -22,11 +23,9 @@ We're planning to have a contest as well as icebreaker during the first moments 
 
 ### COVID-19 and InnerSource Commons current Status
 
-As of now, the InnerSource Commons Madrid Summit is taking place.
-However, not in Madrid, Spain.
+As of now, the InnerSource Commons Madrid Summit is taking place. However, not in Madrid, Spain.
 
-The current situation as you all know has quickly evolved and we all need to be socially responsible.
-Our first priority is the safety of everyone and we have decided to celebrate the April meeting as a *virtual* meeting where we all can keep collaborating, and learning from each other.
+The current situation as you all know has quickly evolved and we all need to be socially responsible. Our first priority is the safety of everyone and we have decided to celebrate the April meeting as a *virtual* meeting where we all can keep collaborating, and learning from each other.
 
 If you have already registered and paid for the ticket entry, you have several options:
 * We do a refunding as soon as we get notified by you.
@@ -58,7 +57,7 @@ Example of time differences in other timezones for the first day of conference:
 
   <tr>
         <td class="time">15:50 - 16:05</td>
-	<td class="author">Daniel Izquierdo Cortázar</td>
+    <td class="author">Daniel Izquierdo Cortázar</td>
         <td class="title"><a href="https://youtu.be/glYcE3CEELI">Welcome to InnerSource Commons Online Spring Summit 2020!</a>
         </td>
   </tr>
@@ -66,7 +65,7 @@ Example of time differences in other timezones for the first day of conference:
   <tr>
         <td class="time">16:05 - 16:25</td>
         <td class="author"><a href="/events/isc-spring-2020-speakers#danese_cooper">Danese Cooper</a><span class="affiliation"> (NearForm) </span>
-	</td>
+    </td>
         <td class="title"><a href="https://youtu.be/75B63VTZmW0">The Inevitability of InnerSource</a>
             <span class="keynoteTag">Keynote: </span>
             <span onClick="toggleAbstract('keynote-danese')" class="abstract-toggle">(<a id="keynote-danese-link">Show Abstract</a>)</span>
@@ -82,7 +81,7 @@ Details appearing shortly
             <a href="/events/isc-spring-2020-speakers#michael_graf">Michael Graf</a> <span class="affiliation"> (SAP)</span> <br>
             <a href="/events/isc-spring-2020-speakers#guilherme_dellagustin">Guilherme Dellagustin</a> <span class="affiliation">(SAP)</span>
         </td>
-	<td class="title"><a href="https://youtu.be/2nhKMcv5STc">Growing an InnerSource culture at SAP</a>
+    <td class="title"><a href="https://youtu.be/2nhKMcv5STc">Growing an InnerSource culture at SAP</a>
             <span onClick="toggleAbstract('graf-1')" class="abstract-toggle">(<a id="graf-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="graf-1">
 In a multinational software corporation like SAP, that has recently grown to almost a hundred thousand employees, reuse and efficient collaboration across organizational borders is quite a challenge. Our development organization spreads across the globe and our products are implemented on a large variety of technology stacks. How can we establish an efficient development process and a collaboration culture at the same time?
@@ -101,7 +100,7 @@ Along practical examples, we share our journey towards InnerSource and how we ar
         <td class="time">16:40 - 16:55</td>
         <td class="author">
            <a href="/events/isc-spring-2020-speakers#dmitrii_sugrobov">Dmitrii Sugrobov</a> <span class="affiliation"> (Leroy Merlin)</span></td>
-	<td class="title"><a href="https://youtu.be/Wzg8h30OhK8"> Global InnerSource adoption at once: lessons learned</a>
+    <td class="title"><a href="https://youtu.be/Wzg8h30OhK8"> Global InnerSource adoption at once: lessons learned</a>
             <span onClick="toggleAbstract('sugrobov-1')" class="abstract-toggle">(<a id="sugrobov-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="sugrobov-1">
 The modern IT consists of constant transformations, product and feature teams, a large number of engineers, plenty of new roles and many business units that solve similar business cases every day. The complexity of business requires modern approaches in development and mature engineering culture. The choice to adopt InnerSource can cover most of the business needs. Usually, InnerSource adoption grows from a small experimental team. But what if to roll these principles to all teams and companies in the group at once? This talk will show our experience and key findings after one year of movement.
@@ -145,7 +144,7 @@ The modern IT consists of constant transformations, product and feature teams, a
         <td class="author">
            <a href="/events/isc-spring-2020-speakers#katrina_novakovic">Katrina Novakovic</a> <span class="affiliation"> (Red Hat)</span></td>
         <td class="title"><a href="https://youtu.be/1T5llwc2XQQ">
-		Does your organisation need to change its culture to improve Inner Source adoption? </a>
+        Does your organisation need to change its culture to improve Inner Source adoption? </a>
             <span onClick="toggleAbstract('novakovic-1')" class="abstract-toggle">(<a id="novakovic-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="novakovic-1">
 In this talk, we'll explore topics crucial to Inner Source culture, including:
@@ -176,7 +175,7 @@ During the breakout groups following this talk, we are certain you can apply you
         <td class="time">18:30 - 18:50</td>
         <td class="author">
             <a href="/events/isc-spring-2020-speakers#nithya_ruff">Nithya Ruff</a><span class="affiliation"> (Comcast) </span></td>
-	<td class="title"><a href="https://youtu.be/msD-8-yrGfs"> InnerSource at Comcast</a>
+    <td class="title"><a href="https://youtu.be/msD-8-yrGfs"> InnerSource at Comcast</a>
             <span class="keynoteTag">Keynote:</span>
             <span onClick="toggleAbstract('keynote-ruff')" class="abstract-toggle">(<a id="keynote-ruff-link">Show Abstract</a>)</span>
         <div style="display:none" class="abstract" id="keynote-ruff">
@@ -208,8 +207,8 @@ Details appearing shortly
         <td class="author">
             Danese Cooper & Georg Grütter
         </td>
-	<td class="title"> <a href="https://youtu.be/5srdrwBvXPg">The Evolution of InnerSource Commons</a>
-	</td>
+    <td class="title"> <a href="https://youtu.be/5srdrwBvXPg">The Evolution of InnerSource Commons</a>
+    </td>
   </tr>
 
    <tr>
@@ -286,7 +285,7 @@ Unlike OpenSource, InnerSource is still a new thing in china. But several big co
         <td class="author"><a href="/events/isc-spring-2020-speakers#ana_jimenez"> Ana Jiménez</a><span class="affiliation"> (Bitergia)</span><br>
         <a href="/events/isc-spring-2020-speakers#jose_manrique_lopez">José Manrique López</a> <span class="affiliation">(Bitergia)</span>
         </td>   
-	<td class="title"> <a href="https://youtu.be/N8DmhTN_lfQ">DevRel inside corporate walls</a>
+    <td class="title"> <a href="https://youtu.be/N8DmhTN_lfQ">DevRel inside corporate walls</a>
             <span onClick="toggleAbstract('jimenez-1')" class="abstract-toggle">(<a id="jimenez-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="jimenez-1">
 The role of DevRel has been key to spread corporation's technologies through engaged communities all around the World. DevRel programs are targeted to engage users and contributors to the communities they manage.
@@ -336,8 +335,6 @@ Georg Grütter examines the main differences between InnerSource and open source
 
 </table>
 
-
-
 ### Registration
 
 [Registration](https://www.brownpapertickets.com/event/4450343) is already open! We are using Brown Paper Tickets for this process. Please notice that **taxes** will be added on top of the sales process. There is a fix rate of 30€ that includes taxes, and a t-shirt and stickers that we will send as soon as possible.
@@ -348,26 +345,26 @@ We are delighted to welcome Danese Cooper (VP of Special Initiatives at NearForm
 
 #### Keynote Speakers
 
-<img alt="Danese Cooper photo" src="/images/events/speakers/Danese_Cooper.jpg" width="200" align="right"/>
+<img alt="Danese Cooper photo" src="/images/events/speakers/Danese_Cooper.jpg" width="200" align="right" />
 
 **Danese Cooper**
 
 Danese Cooper is vice president of special initiatives at NearForm, an Irish tech firm. Previously, she was head of open source software at PayPal, CTO of the Wikimedia Foundation, chief open source evangelist for Sun, and senior director of open source strategies for Intel. Danese was also the inaugural chairperson of the Node.js Foundation. She concentrates on creating healthy open source communities and has served on the boards of Drupal Association, the Open Source Initiative, the Open Source Hardware Association, and she’s advised Mozilla and the Apache Software Foundation. Danese also runs a successful open source consultancy that counts the Bill & Melinda Gates Foundation, the SETI Institute, Harris, and Numenta as clients. She’s been known to knit through meetings.
 
-<img alt="Isabel Drost-Fromm photo" src="/images/events/speakers/isabel_drost-fromm.jpeg" width="200" align="right"/>
+<img alt="Isabel Drost-Fromm photo" src="/images/events/speakers/isabel_drost-fromm.jpeg" width="200" align="right" />
 
 **Isabel Drost-Fromm**
 
 Isabel Drost-Fromm is Open Source Strategist at Europace AG Germany. She's a member of the Apache Software Foundation, co-founder of Apache Mahout and mentored several incubating projects. Isabel is interested in all things FOSS, search and text mining with a decent machine learning background. True to the nature of people living in Berlin she loves having friends fly in for a brief visit - as a result she co-founded and is still one of the creative heads behind Berlin Buzzwords, a tech conference on all things search, scale and storage.
 
-<img alt="Georg Grütter photo" src="/images/events/speakers/georg-gruetter.jpg" width="200" align="right"/>
+<img alt="Georg Grütter photo" src="/images/events/speakers/georg-gruetter.jpg" width="200" align="right" />
 
 **Georg Grütter**
 
 Georg Grütter is a social coding evangelist and developer advocate at Bosch.IO. He cofounded and led the first InnerSource community at Bosch. Georg is a passionate software developer with over 30 years of experience. Previously, he held various positions and roles at Bosch, Line Information, the Zurich System House, and DaimlerChrysler. Georg has created two open source projects, [XHSI](http://xhsi.sourceforge.net) and [stashNotifier](https://wiki.jenkins-ci.org/display/JENKINS/StashNotifier+Plugin). He's an avid recumbent cyclist and mountain biker who also loves photography and chocolate.
 
 
-<img alt="Nithya Ruff photo" src="/images/events/speakers/Nithya Ruff.png" width="200" align="right"/>
+<img alt="Nithya Ruff photo" src="/images/events/speakers/Nithya Ruff.png" width="200" align="right" />
 
 **Nithya Ruff**
 
