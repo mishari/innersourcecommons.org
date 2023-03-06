@@ -1,123 +1,89 @@
 ---
-title: "InnerSource Commons"
+title: "InnerSource Commons の動画"
+subtitle: ""
+description: "The InnerSource Commons is a growing community of practitioners with the goal of creating and sharing knowledge about InnerSource."
+draft: false
 ---
 
-
-
-<section class="banner banner-head">
+<section class="section">
   <div class="container">
-    <div class="row">
-      <div class="col-lg-12 mx-auto text-center">
-        <p class="h1">InnerSource Commons へようこそ！</p>
+    <div class="row align-items-center">
+      <div class="col-md-4 mb-4 mb-md-0">
+        {{< announcements >}}
       </div>
-    </div>
-  </div>
-</section>
-
-<section class="section section-first">
-  <div class="container">
-    <div class="row align-items-center mb-3">
-      <div class="col-md-9">
-        <img src="/images/logo-big.png" class="img-fluid logo-home pr-5" style="float: left;">
+      <div class="col-md-7">
         <p>{{< about-text >}}
         </p>
-      </div>
-      <div class="col-md-3">
-        {{< contact-form mode="vertical-light" >}}
+        <a href="/about/announcements" class="btn-link">Announcements <i class="ti-arrow-right"></i></a>
       </div>
     </div>
   </div>
 </section>
+
 
 <section class="section bg-light">
   <div class="container">
-    <div class="row text-right">
+    <div class="row text-right align-items-center">
       <div class="col-md-6">
-        <p class="section-title h2">インナーソースについて学ぶ</p>
-        <p style="text-align:left">インナーソースについてこれから学ぶ方、インナーソースが実装しているのが誰なのか、なぜなのかを詳しく知りたい方は、サイトの "学ぶ" セクションにアクセスしてください。トレーニング資料やベストプラクティス、書籍や過去のイベントの記録、ケーススタディなど、インナーソースの採用に役立つリソースが豊富に用意されています。
+        <p class="section-title h2">InnerSource Commons</p>
+        <p>Our mission is to establish a body of knowledge and to educate individuals, commercial and non-profit organizations, research centers, and other institutions about the successful adoption of InnerSource best practices. </p>
+        <p>We provide a safe environment for accumulating and sharing knowledge and experiences, finding best practices, building standards and tooling, producing educational materials, and fostering research to advance the understanding, adoption, and practice of InnerSource.
         </p>
-        <a href="/learn" class="btn-link">インナーソースについて学ぶ<i class="ti-arrow-right"></i></a>
       </div>
       <div class="col-md-6 mt-4 mb-4 mb-md-0 float-right">
-        <img src="/images/community/collaboration.png" class="img-fluid pl-4 pr-4">
+        <img src="/images/about/illustrations/creative.png" class="img-fluid pl-4 pr-4">
       </div>
     </div>
   </div>
 </section>
+
 
 <section class="section">
   <div class="container">
     <div class="row align-items-center">
       <div class="col-md-5 mb-4 mb-md-0">
-        {{< image-community >}}
+       <img src="/images/community/connection.png" class="img-fluid pl-4 pr-4">
       </div>
       <div class="col-md-6">
-          <p class="section-title h2">コミュニティに参加する</p>
-          <p>インナーソースの実践者やインナーソースを学びたい方を幅広い活動でサポートします。開始するには、Slack を介して InnerSource Commons のコミュニティに参加し、自己紹介をしてください。<br />インナーソースの旅をともにする素晴らしい仲間を見つけることができますよ！</p>
-          <a href="/ja/community/" class="btn-link">コミュニティへの参加<i class="ti-arrow-right"></i></a>
+          <p class="section-title h2">How We Work</p>
+          <p>The InnerSource Commons utilizes open source methods to provide organizations practicing InnerSource a forum for discussing and improving the practice of InnerSource through the sharing of experiences (under the <a href="https://www.chathamhouse.org/about-us/chatham-house-rule">Chatham House Rule</a>), creation and review of InnerSource patterns, and the open exchange of ideas.</p>
+        <p>Interested individuals and companies are welcome to participate and contribute content to the ISC. In general, contributed content will be made available under the <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a> attributed to InnerSourceCommons.org. No fees are required to participate.</p>        
+        <a href="/community/" class="btn-link">Check out how we work <i class="ti-arrow-right"></i></a>
         </div>
     </div>
   </div>
 </section>
 
+
 <section class="section bg-light">
   <div class="container">
-    <div class="row align-items-center">
-      <div class="col-md-12">
-        <p class="h2 section-title text-center">InnerSource Commons の動画</p>
-        <div id="youmax" class=""></div>
-        {{< more-videos-button >}}
+    <div class="row text-right align-items-center">
+      <div class="col-md-6">
+        <p class="section-title h2">InnerSource Commons財団</p>
+        <p>The InnerSource Commons community is open to all. Some community participants go above and beyond, and may be invited to become an ISC Member. The InnerSource Commons is a membership corporation, so ISC Members serve a similar role as shareholders in publicly traded corporations. </p>
+        <p>Members have particular rights in the ISC; for example, they may vote in board elections. To be eligible for Membership, a person must be nominated by a current Member. Membership is purely merit-based, free of any cost, and restricted to individuals.
+        </p>
+        <a href="/about/members" class="btn-link">InnerSource Commons へようこそ！<i class="ti-arrow-right"></i></a>
+      </div>
+      <div class="col-md-6 mt-4 mb-4 mb-md-0 float-right">
+        <img src="/images/about/illustrations/notebook.png" class="img-fluid pl-4 pr-4">
       </div>
     </div>
   </div>
 </section>
+
 
 <section class="section">
   <div class="container">
     <div class="row align-items-center">
-      <div class="offset-md-2 col-md-4 mb-4 mb-md-0">
-        {{< announcements >}}
+      <div class="col-md-5 mb-4 mb-md-0">
+         <img src="/images/about/illustrations/team.png" class="img-fluid pl-4 pr-4">
       </div>
-      <div class="col-md-5">
-        <p class="section-title h2">InnerSource Commons財団</p>
-        <p>InnerSource Commons は、米501(c)(3)認定をうけた非営利団体として運営され、一連の内規により管理されています。</p>
-        <p><a href="/about/" class="btn-link">財団について<i class="ti-arrow-right"></i></a></p>
-      </div>
-    </div>
-  </div>
-</section>
-
-<section class="section-last section">
-  <div class="container section-small shadow rounded-lg px-4 bg-light">
-    <div class="row align-items-center justify-content-center text-center text-md-left">
-      <div class="col-lg-5 col-md-4 mb-4 mb-md-0">
-        <a class="twitter-timeline" data-height="500" data-dnt="true" href="https://twitter.com/InnerSourceOrg?ref_src=twsrc%5Etfw"></a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-      </div>
-      <div class="col-md-5 offset-md-1">
-        <p class="h2 section-title">最新情報はこちら</p>
-        <p class="mb-4">
-        コミュニティ活動のほとんどは、<a href="https://innersourcecommons.org/slack//">Slack</a> で行われています。また、メールの定期購読や、 <a href="https://twitter.com/InnerSourceOrg">Twitter</a>、 <a href="https://www.linkedin.com/company/innersourcecommons">LinkedIn</a> のフォロー、<a href="https://www.youtube.com/channel/UCoSPSd6Or4F_vpjo4SmyoEA">YouTube</a>チャンネルの登録やによって、InnerSource Commons のニュース、イベントについての情報を取得することができます。</p>
-        <p class="h3 section-title">メールを定期購読する</p>
-        {{< contact-form >}}
-      </div>
-    </div>
-  </div>
-</section>
-
-<section class="section">
-  <div class="container px-4">
-    <div class="row align-items-center justify-content-center text-center text-md-left">
-      <div class="col-lg-5 col-md-4 mb-4 mb-md-0">
-        <p class="h2 section-title">&#127471;&#127477;&nbsp;日本コミュニティ</p>
-        <p class="mb-4">
-        日本語での交流のために Slack には <b>#jp-general</b> チャネルがあります。Slack に登録したら<a href="https://app.slack.com/client/T04PXKRM0/C03M546NR16">こちら</a>にアクセスしてください。
-        <br>
-        また、日本向けのイベント登録は <a href="https://innersourcecommons.connpass.com/">Connpass のページ</a>で受け付けています。ぜひご参加ください！
-        </p>
-      </div>
-      <div class="col-md-5 offset-md-1">
-        <a class="twitter-timeline" data-height="300" data-dnt="true" href="https://twitter.com/InnerSourceJP?ref_src=twsrc%5Etfw"></a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-      </div>
+      <div class="col-md-6">
+          <p class="section-title h2">Board & Governance</p>
+          <p>InnerSource Commons は、米501(c)(3)認定をうけた非営利団体として運営され、一連の内規により管理されています。 The Board of Directors sets the policy and appoints officers that set and execute policy. The Board is elected by the Membership on a yearly basis.</p>
+          <a href="/about/board/" class="btn-link">Learn more about the ISC Board <i class="ti-arrow-right"></i></a>
+        </div>
     </div>
   </div>
 </section>
