@@ -21,8 +21,8 @@ Clare is stepping into the role of Executive Director after a long career in the
 <p>
 {{< about-text >}}
 </p>
- 
+
 ### Contact Information
- 
+
 If you would like to learn more about InnerSource Commons or our new Sponsor Program, please visit www.innersourcecommons.org/about/sponsors/ or contact info@innersourcecommons.org.
 
