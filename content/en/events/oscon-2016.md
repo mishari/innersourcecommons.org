@@ -2,7 +2,7 @@
 layout: page
 title: 'InnerSource @ OSCON US 2016'
 image: "images/events/cities/austin.jpeg"
-# post type (regular/featured)
+#post type (regular/featured)
 date: 2016-05-16T00:00:00+00:00
 ---
 
