@@ -2,7 +2,7 @@
 layout: page
 title: 'Fall Summit 2018'
 image: "images/events/cities/newyork.jpeg"
-# post type (regular/featured)
+#post type (regular/featured)
 date: 2018-10-03T00:00:00+00:00
 ---
 
@@ -11,7 +11,7 @@ date: 2018-10-03T00:00:00+00:00
 ### Event
 That's an official wrap on the InnerSource Commons Fall Summit! Thanks to all attendees and speakers for making this summit so productive and fun!
 
-<img alt="ISC.S7 Crowd" src="/images/events/fall2018.jpeg"/>
+<img alt="ISC.S7 Crowd" src="/images/events/fall2018.jpeg" />
 
 Please watch the site home page for details on the upcoming 2019 Spring (April) and Fall summits!
 
@@ -306,7 +306,7 @@ Operations teams need to adopt automation to scale. The development background a
       <tr>
         <td class="time">10:15 - 10:45</td>
         <td><a href="/events/isc-fall-2018-speakers#kristof_van tomme">Kristof Van Tomme</a> <span class="affiliation">(Provonix)</span></td>
-        <td class="title">Documentation InnerSource Patterns             
+        <td class="title">Documentation InnerSource Patterns
 <span onClick="toggleAbstract('van tomme-1')" class="abstract-toggle">(<a id="van tomme-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="van tomme-1">
 At the European InnerSource Commons event, we held a workshop about the documentation patterns that teams and individuals can follow to get better documentation for their projects. In this talk I will explain the background constraints/forces that documentation projects typically struggle with and give a short introduction to the different candidate patterns such as: Beginners teach, Design first, Readme first, Docs as definition of done, Docs as code (with its subpatterns docs in code and docs also in code), Writers become editors, Docs as innersourcing projects, Docs appreciation, Documentation scaffolds, Activation energy, SDK patterns, Glossary, and Docs as sales. I will also explain which patterns I think apply to Innersourcing projects, and do an attempt to create a decision tree that helps you to choose what documentation patterns could be useful in a given company context.
@@ -355,8 +355,7 @@ Gravity is a natural phenomenon that occurs when bodies are in close proximity t
 
 ### Our Keynote Speakers
 
-<div style="width:100%">
-    <div style="float:left;padding-right:30px;padding-bottom:30px">
+<div style="width:100%"> <div style="float:left;padding-right:30px;padding-bottom:30px">
         <img alt="Otto Berkes" width="200" src="/images/events/speakers/Otto Berkes.jpg"/>
     </div>
 
@@ -376,8 +375,7 @@ An advocate of diversity, he is a member of the University of Vermont’s STEM l
 </td>
 
 <div style="clear:both;"></div>
-<div style="width:100%">
-    <div style="float:left;padding-right:30px;padding-bottom:30px">
+<div style="width:100%"> <div style="float:left;padding-right:30px;padding-bottom:30px">
         <img alt="Mary Lynn Manns" width="200" src="/images/events/speakers/Mary Lynn Manns_July2015.jpg"/>
     </div>
 <b>Dr. Mary Lynn Manns, Professor at UNC Asheville and Author</b>
@@ -388,12 +386,11 @@ Dr. Mary Lynn Manns is a professor in the Department of Management at UNC Ashevi
 </td>
 
 <div style="clear:both;"></div>
-<div style="width:100%">
-    <div style="float:left;padding-right:30px;padding-bottom:30px">
+<div style="width:100%"> <div style="float:left;padding-right:30px;padding-bottom:30px">
         <img alt="Russell Rutledge" width="200" src="/images/events/speakers/Russell Rutledge.jpeg"/>
     </div>
 <b>Russell R. Rutledge, Community Core Team Lead, Nike</b>
-    
+
 <p>
 Russ Rutledge is the lead for Nike's Community Core team—a startup within the company that culls the process and tools to encourage and foster cross-team and community interaction and development. Russ's drive and passion is to enable all software engineers to achieve incredible technical and business throughput via quality tooling and streamlined work process. Previously, Russ ran another successful startup delivering JavaScript continuous delivery solutions to hundreds of projects throughout Nike and did feature and infrastructure development for the Outlook and OneDrive consumer websites at Microsoft.
     
@@ -401,8 +398,7 @@ Russ Rutledge is the lead for Nike's Community Core team—a startup within the 
 </td>
 
 <div style="clear:both;"></div>
-<div style="width:100%">
-    <div style="float:left;padding-right:30px;padding-bottom:30px">
+<div style="width:100%"> <div style="float:left;padding-right:30px;padding-bottom:30px">
         <img alt="Nigel Simpson" width="200" src="/images/events/speakers/nigelsimpson.jpg"/>
     </div>
 <b>Nigel Simpson, Director of Tech Strategy & Research at The Walt Disney Company</b>
@@ -574,8 +570,7 @@ A long-time open source enthusiast and community contributor, Kanchana Welagedar
 </div>
 
 ### Formerly Scheduled
- <p>
-Due to a conflict, the following speaker is unable to attend.
+ <p> Due to a conflict, the following speaker is unable to attend.
 
 <div class="clearfix">
 <img alt="Nithya Ruff photo" src="/images/events/speakers/Nithya Ruff.png" width="200" class="speaker-photo"/>
@@ -596,11 +591,11 @@ The InnerSource Commons ([InnerSourceCommons.org](http://innersourcecommons.org)
 
 This Summit was hosted by [CA Technologies](https://www.ca.com/us.html) at their facility at 1 Computer Associates Plaza, Islandia, NY, 11749.
 
-<img alt="CA Islandia" width="600" src="/images/events/speakers/ca_islandia.jpg"/>
+<img alt="CA Islandia" width="600" src="/images/events/speakers/ca_islandia.jpg" />
 
 ### [Code of Conduct](/events/conduct/)
 
-All participants, vendors, and guests at InnerSource Commons events are required to abide by the [code of conduct](/events/conduct/). 
+All participants, vendors, and guests at InnerSource Commons events are required to abide by the [code of conduct](/events/conduct/).
 
 InnerSource Commons meetings and events run under the [Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_Rule): information discussed at a meeting can be shared but not attributed.
 
