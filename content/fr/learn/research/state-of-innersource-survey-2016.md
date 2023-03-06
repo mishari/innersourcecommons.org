@@ -15,4 +15,5 @@ L'objectif de cette première State of InnerSource Commons survey (_Enquête sur
 Pour les résultats complets, voir "the State of InnerSource 2016 Report".
 
 ## Auteurs
+
 Cette enquête a été menée par le Dr Klaas-Jan Stol du Lero, le centre Irlandais de recherche sur les logiciels, et le Dr Tim Yao de Nokia. Le Dr. Bora Caglayan du Lero a contribué à la conception de l'enquête.
