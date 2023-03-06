@@ -2,7 +2,7 @@
 layout: page
 title: 'Fall Summit 2019'
 image: "images/events/cities/baltimore.jpeg"
-# post type (regular/featured)
+#post type (regular/featured)
 date: 2019-10-03
 redirect: "https://jacobgreen197.wixsite.com/mysite-1"
 type: "redirects"
