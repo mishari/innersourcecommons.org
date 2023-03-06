@@ -4,7 +4,7 @@ title: "InnerSource Stories"
 subtitle: "The InnerSource Commons community has over 1500 subscribers from 500 organizations. Listed below is a sample of the organizations who have publicly spoken about using InnerSource."
 image: "/images/learn/InnerSourceInAction.jpg"
 aliases:
-- /community/action/
+  - /community/action/
 ---
   <div class="container">
     <div class="row justify-content-center align-items-center">
