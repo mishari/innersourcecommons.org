@@ -2,13 +2,14 @@
 layout: page
 title: 'North American Fall Virtual Summit 2020'
 image: "images/events/america2020.jpg"
-# post type (regular/featured)
+#post type (regular/featured)
 date: 2020-09-15T00:00:00+00:00
 youtubeLink: https://www.youtube.com/watch?v=0YzOz94cNec&list=PLCH-i0B0otNQZQt_QzGR9Il_kE4C6cQRy
 ---
+
 ### 15th and 16th September 2020, online!
 
-The 11th InnerSource Commons Summit stayed online thanks to the success of the <a href="https://www.youtube.com/playlist?list=PLCH-i0B0otNQeYBH5QvNRBDA3CMrS9lL9">ISC Online Spring Summit 2020</a>. You can now enjoy watching the talks on our Youtube Channel in the <a href="https://www.youtube.com/watch?v=0YzOz94cNec&list=PLCH-i0B0otNQZQt_QzGR9Il_kE4C6cQRy">InnerSource Commons Online Fall Summit 2020</a> Playlist.  
+The 11th InnerSource Commons Summit stayed online thanks to the success of the <a href="https://www.youtube.com/playlist?list=PLCH-i0B0otNQeYBH5QvNRBDA3CMrS9lL9">ISC Online Spring Summit 2020</a>. You can now enjoy watching the talks on our Youtube Channel in the <a href="https://www.youtube.com/watch?v=0YzOz94cNec&list=PLCH-i0B0otNQZQt_QzGR9Il_kE4C6cQRy">InnerSource Commons Online Fall Summit 2020</a> Playlist.
 
 You can check out the original event site [here](https://www.eventbrite.ie/e/innersource-commons-fall-2020-virtual-summit-tickets-117435975163#).
 
@@ -28,7 +29,7 @@ The summit consists of two days, each a 3.5 hour slot: running from noon East Co
 
 We are a global community, but because our Fall Summit usually takes place in North America, it will take place slightly later than our Spring Summit (traditionally EU).
 
-We are hoping to host an online summit later in the year to fit with the timezones of the growing number of Asian community participants.   
+We are hoping to host an online summit later in the year to fit with the timezones of the growing number of Asian community participants.
 
 
 ### Notes
@@ -55,7 +56,7 @@ Example of time differences in other timezones for the first day of conference:
 
   <tr>
         <td class="time">08:45 - 09:00</td>
-	<td class="author">Lobby Hangout & Chat</td>
+    <td class="author">Lobby Hangout & Chat</td>
         <td class="title">Join us for some informal chat and introductions before the summit begins!
         </td>
   </tr>
@@ -70,9 +71,9 @@ Example of time differences in other timezones for the first day of conference:
 
   <tr>
         <td class="time">09:10 - 09:50</td>
-	  <td class="author">
-		  <b><a href="#tim_oreilly">Tim O'Reilly</a></b> (O'Reilly Media) <br>
-		  <b><a href="#danese_cooper">Danese Cooper</a></b> (NearForm)
+      <td class="author">
+          <b><a href="#tim_oreilly">Tim O'Reilly</a></b> (O'Reilly Media) <br>
+          <b><a href="#danese_cooper">Danese Cooper</a></b> (NearForm)
        <td class="title"> <b>Keynote</b>: Tim O'Reilly joins ISC Chairperson, Danese Cooper, for a 1:1 discussion on InnerSource, Open Source and future trends in software development </td>
        </td>
   </tr>
@@ -80,8 +81,8 @@ Example of time differences in other timezones for the first day of conference:
 
   <tr>
         <td class="time"> 09:50 - 10:05</td>
-	<td class="author"> <b><a href="#russ_rutledge">Russ Rutledge</a></b> (Nike)
-	</td>
+    <td class="author"> <b><a href="#russ_rutledge">Russ Rutledge</a></b> (Nike)
+    </td>
         <td class="title"> InnerSource Culture Change at Scale
             <span onClick="toggleAbstract('rutledge')" class="abstract-toggle">(<a id="rutledge-link">Show Abstract</a>)</span>
         <div style="display:none" class="abstract" id="rutledge">
@@ -94,7 +95,7 @@ InnerSource is more than telling someone the mechanics of code and community man
 
   <tr>
         <td class="time"> 10:05 - 10:20</td>
-	<td class="author"> <b><a href="#brittany_istenes">Brittany Erica Istenes</a></b> (Comcast)
+    <td class="author"> <b><a href="#brittany_istenes">Brittany Erica Istenes</a></b> (Comcast)
         </td>
         <td class="title"> InnerSource is established, now what?
             <span onClick="toggleAbstract('istenes')" class="abstract-toggle">(<a id="istenes-link">Show Abstract</a>)</span>
@@ -120,11 +121,11 @@ The goal of my talk is to walk through how at the last summit we talked about cu
         <td class="time">10:40 - 11:20</td>
         <td>Open Discussions and Breakout Sessions</td>
         <td><ul>
-		<li>Channel 1: InnerSource Bootcamp 101 with <a href="#danese_cooper">Danese Cooper</a></li>
-		<li>Channel 2: Metrics, Maturity Models & Tooling</li>
-              	<li>Channel 3: Patterns: Proven Solutions to Existing Problems</li>
-		<li>Channel 4: Cultural Change: Scaling InnerSource</li>
-              	<li>Channel 5: Convincing Leadership, Stakeholder Management and ROI</li>
+        <li>Channel 1: InnerSource Bootcamp 101 with <a href="#danese_cooper">Danese Cooper</a></li>
+        <li>Channel 2: Metrics, Maturity Models & Tooling</li>
+                <li>Channel 3: Patterns: Proven Solutions to Existing Problems</li>
+        <li>Channel 4: Cultural Change: Scaling InnerSource</li>
+                <li>Channel 5: Convincing Leadership, Stakeholder Management and ROI</li>
             </ul>
         </td>
   </tr>
@@ -137,7 +138,7 @@ The goal of my talk is to walk through how at the last summit we talked about cu
 
   <tr>
         <td class="time"> 11:25 - 11:35</td>
-	<td class="author"> <b><a href="#sebastian_spier">Sebastian Spier</a></b> (Meltwater)
+    <td class="author"> <b><a href="#sebastian_spier">Sebastian Spier</a></b> (Meltwater)
         </td>
         <td class="title"> 1 year in the InnerSource Commons community: Getting your money's worth.
             <span onClick="toggleAbstract('spier')" class="abstract-toggle">(<a id="spier-link">Show Abstract</a>)</span>
@@ -151,8 +152,8 @@ Let me make the argument for you: Convince yourself (and your manager) of the be
   <tr>
         <td class="time">11:35 - 11:50</td>
         <td class="author">
-		<b><a href="#michael_graf">Michael Graf</a></b> (SAP) <br>
-		<b><a href="#harish_b">Harish B.</a></b> (SAP)
+        <b><a href="#michael_graf">Michael Graf</a></b> (SAP) <br>
+        <b><a href="#harish_b">Harish B.</a></b> (SAP)
         </td>
         <td class="title"> The Unexpected Path of Applying InnerSource Patterns
             <span onClick="toggleAbstract('graf')" class="abstract-toggle">(<a id="graf-link">Show Abstract</a>)</span>
@@ -184,7 +185,7 @@ What good is source code sitting a repo? No much, might as well be ideas on the 
 
   <tr>
         <td class="time">12:05 - 12:25</td>
-	<td class="author"> <b><a href="#martin_woodward">Martin Woodward</a></b> (GitHub)
+    <td class="author"> <b><a href="#martin_woodward">Martin Woodward</a></b> (GitHub)
         </td>
         <td class="title"> The Top 5 Myths of InnerSource
             <span class="keynoteTag"> Keynote </span>
@@ -228,14 +229,14 @@ In this session, Martin Woodward from GitHub explains some of the biggest myths 
 
  <tr>
         <td class="time">09:10 - 09:50</td>
-	  <td class="author">
-		  <b><a href="#andrew_aitken">Andrew Aitken</a></b> (Wipro) <br>
-		  <b><a href="#silona_bonewald">Silona Bonewald</a></b> (IEEE) <br>
-		  <b><a href="#alex_chittock">Alex Chittock</a></b> (Lloyds Banking Group) <br>
-		  <b><a href="#russell_green">Russell Green</a></b> (Deutsche Bank) <br>
-		  <b><a href="#dov_katz">Dov Katz</a></b> (Morgan Stanley) <br>
-		  <b><a href="#james_mcleod">James McLeod</a></b> (FINOS) <br>
-		  <b><a href="#vitor_monteiro">Vitor Monteiro</a></b> (GitHub)
+      <td class="author">
+          <b><a href="#andrew_aitken">Andrew Aitken</a></b> (Wipro) <br>
+          <b><a href="#silona_bonewald">Silona Bonewald</a></b> (IEEE) <br>
+          <b><a href="#alex_chittock">Alex Chittock</a></b> (Lloyds Banking Group) <br>
+          <b><a href="#russell_green">Russell Green</a></b> (Deutsche Bank) <br>
+          <b><a href="#dov_katz">Dov Katz</a></b> (Morgan Stanley) <br>
+          <b><a href="#james_mcleod">James McLeod</a></b> (FINOS) <br>
+          <b><a href="#vitor_monteiro">Vitor Monteiro</a></b> (GitHub)
        <td class="title"> <b>Panel Discussion</b>: InnerSource in Financial Services </td>
        </td>
   </tr>
@@ -244,7 +245,7 @@ In this session, Martin Woodward from GitHub explains some of the biggest myths 
    <tr>
         <td class="time">09:50 - 10:05</td>
         <td class="author">
-		<b><a href="#isabel_drost_fromm">Isabel Drost-Fromm</a></b> (Europace AG)</td>
+        <b><a href="#isabel_drost_fromm">Isabel Drost-Fromm</a></b> (Europace AG)</td>
         <td class="title"> Remote First - what you can learn from Open Source
             <span onClick="toggleAbstract('drost')" class="abstract-toggle">(<a id="drost-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="drost">
@@ -256,7 +257,7 @@ In 2020 a lot of companies moved to a remote first setting in a hurry - and with
 
   <tr>
         <td class="time"> 10:05 - 10:20</td>
-	<td class="author"> <b><a href="#arno_mihm">Arno Mihm</a></b> (Microsoft) </td>
+    <td class="author"> <b><a href="#arno_mihm">Arno Mihm</a></b> (Microsoft) </td>
         <td class="title"> InnerSource at Microsoft
             <span onClick="toggleAbstract('mihm')" class="abstract-toggle">(<a id="mihm-link">Show Abstract</a>)</span>
         <div style="display:none" class="abstract" id="mihm">
@@ -298,7 +299,7 @@ In this session, Arno Mihm (Program Manager InnerSource at Microsoft) will talk 
 
   <tr>
         <td class="time"> 11:25 - 11:35</td>
-	<td class="author"> <b><a href="#clare_dillon">Clare Dillon</a></b> (InnerSource Commons Community) </td>
+    <td class="author"> <b><a href="#clare_dillon">Clare Dillon</a></b> (InnerSource Commons Community) </td>
         <td class="title"> Why the world needs more InnerSourcerers
             <span onClick="toggleAbstract('dillon')" class="abstract-toggle">(<a id="dillon-link">Show Abstract</a>)</span>
         <div style="display:none" class="abstract" id="dillon">
@@ -311,7 +312,7 @@ Many InnerSource practitioners have spoken about how InnerSource can be a great 
    <tr>
         <td class="time">11:35 - 11:50</td>
         <td class="author">
-		<b><a href="#thomas_sadler">Thomas Sadler</a></b> (BBC)</td>
+        <b><a href="#thomas_sadler">Thomas Sadler</a></b> (BBC)</td>
         <td class="title"> Using internal RFCs to enhance collaboration
             <span onClick="toggleAbstract('sadler')" class="abstract-toggle">(<a id="sadler-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="sadler">
@@ -325,7 +326,7 @@ InnerSource leverages Open Source practices internally to enable collaboration, 
    <tr>
         <td class="time">11:50 - 12:05</td>
         <td class="author">
-		<b><a href="#agustin_benito">Agustin Benito Bethencourt</a></b> (Daimler Group)</td>
+        <b><a href="#agustin_benito">Agustin Benito Bethencourt</a></b> (Daimler Group)</td>
         <td class="title"> You can go fast by going together: software delivery process performance metrics
             <span onClick="toggleAbstract('bethencourt')" class="abstract-toggle">(<a id="bethencourt-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="bethencourt">
@@ -340,7 +341,7 @@ The goal of the talk is to introduce the audience in such software delivery proc
 
    <tr>
         <td class="time">12:05 - 12:25</td>
-	<td class="author"><b><a href="#diane_mueller">Diane Mueller</a></b> (Red Hat)</td>
+    <td class="author"><b><a href="#diane_mueller">Diane Mueller</a></b> (Red Hat)</td>
         <td class="title"> Community Development in the Age of Continuous Connection
         <span class="keynoteTag">Keynote</span>
             <span onClick="toggleAbstract('keynote-mueller')" class="abstract-toggle">(<a id="keynote-mueller-link">Show Abstract</a>)</span>
@@ -357,7 +358,6 @@ A seismic shift has occurred across open source ecosystems that has given rise t
   </tr>
 
 </table>
-
 
 ### Registration
 
