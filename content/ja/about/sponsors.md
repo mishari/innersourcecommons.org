@@ -1,12 +1,12 @@
 ---
 layout: page
 title: "スポンサー"
-subtitle: "<br>私たちのパートナーは、世界でインナーソースの動きをリードするのに役立っている組織です。私たちのサポーターは、単に内部でインナーソースを採用していません。彼らは実践者の世界的なコミュニティを有効にすることに気を配っています。InnerSource Commonsは、素晴らしいコミュニティの参加者がなければ存在しないのに対し、私たちの寛大なスポンサーは、私たちの活動とインパクトを拡大することができる支援を提供してくれています。彼らの助けなしに、我々は存在することができません。</br>感謝いたします。"
+subtitle: "<br>私たちのパートナーは、世界でインナーソースの動きをリードするのに役立っている組織です。 私たちのサポーターは、単に内部でインナーソースを採用していません。 彼らは実践者の世界的なコミュニティを有効にすることに気を配っています。 InnerSource Commonsは、素晴らしいコミュニティの参加者がなければ存在しないのに対し、私たちの寛大なスポンサーは、私たちの活動とインパクトを拡大することができる支援を提供してくれています。 彼らの助けなしに、我々は存在することができません。 Without their help, we would not be able to do the work we do. </br>感謝いたします。"
 ---
 
 
   <div class="container text-center" >
-    <h2 class="display-3">パートナー</h2>
+    <h2 class="display-3"> パートナー </h2>
   </div>
 
   <div class="container">
@@ -19,9 +19,9 @@ subtitle: "<br>私たちのパートナーは、世界でインナーソース�
   </div>
 
   <div class="container text-center" >
-    <h2 class="display-3">サポーター</h2>
+    <h2 class="display-3"> サポーター </h2>
   </div>
-  
+
   <div class="container">
     <div class="row justify-content-center">
       {{< company name="Comcast" image="/images/logos/comcast.png" >}}{{< /company >}}
@@ -32,7 +32,7 @@ subtitle: "<br>私たちのパートナーは、世界でインナーソース�
       {{< company name="Sourcegraph" image="/images/logos/sourcegraph.svg" >}}{{< /company >}}
     </div>
   </div>
-      
+
 <section class="section bg-light">
   <div class="container">
     <div class="row justify-content-center">
@@ -44,13 +44,13 @@ subtitle: "<br>私たちのパートナーは、世界でインナーソース�
         <div class="feature-card text-left">
           <img src="/images/ISC_Partner_Logo_Wide.png" alt="Partner Badge">
           <h3 class="mb-2">パートナーになる</h3>
-          <p>世界のインナーソースムーブメントをリードする組織。当社のパートナーは、世界中のソフトウェア開発実践を改善することにコミットしています。</p>
-          <h4>ベネフィット</h4>
+          <p>世界のインナーソースムーブメントをリードする組織。 当社のパートナーは、世界中のソフトウェア開発実践を改善することにコミットしています。</p>
+          <h4>Benefits include:</h4>
           <ul>
-              <li>ISC インダストリーアドバイザリー ボードの代表としての登録</li>
-              <li>ISC の発表や資料での優先的なポジション付け </li>
+              <li>ISC インダストリーアドバイザリー ボードの代表としての登録 </li>
+              <li>ISC の発表や資料での優先的なポジション付け</li>
               <li>ISC パートナーマネージャーからの前向きなサポート </li>
-              <li>サポーターの全てのベネフィット!!</li>
+              <li>Plus all the benefits of an ISC Supporter!</li>
           </ul>
         </div>
       </div>
@@ -59,22 +59,23 @@ subtitle: "<br>私たちのパートナーは、世界でインナーソース�
           <img src="/images/ISC_Supporter_Logo_Wide.png" alt="Supporter Badge">
           <h3 class="mb-2">サポーターになる</h3>
           <p>ISC コミュニティーをサポートし、社内のインナーソースの活動を加速し、世界に最高の開発プラクティスを信じることを示すことができるインナーソースの実践者向けです。</p>
-          <h4>ベネフィット</h4>
+          <h4>Benefits include:</h4>
           <ul>
-          <li>インナーソースへのアクティブなコミットメントを示すことによるブランド価値</li>
-          <li>ISC イベントや活動でにおける感謝</li>
-          <li>内部イベント向けの InnerSource Commons からのスピーカー提供</li>
-          <li>ISC によるコンテンツ共同作成の支援</li>
+              <li>インナーソースへのアクティブなコミットメントを示すことによるブランド価値</li>
+              <li>ISC イベントや活動でにおける感謝</li>
+              <li>内部イベント向けの InnerSource Commons からのスピーカー提供 </li>
+              <li>ISC によるコンテンツ共同作成の支援</li>
           </ul>
         </div>
       </div>
     </div>
     <div class="row d-flex justify-content-center">
-        <a href="mailto:sponsor@innersourcecommons.org" class="btn btn-primary btn-sm" style="color: white;">詳細については、お問い合わせください</a>
+        <a href="mailto:sponsor@innersourcecommons.org" class="btn btn-primary btn-sm" style="color: white;">Get in Touch to Find Out More</a>
     </div>
   </div>
 </section>
 
 私たちは、InnerSource のコミュニティーを成長させ、我々の仕事を容易にするとともに、InnerSource についての知識を広めることに貢献してくださるスポンサーの皆様に感謝します。
 
-スポンサーシップの費用は、スポンサーシップの種類、組織の種類とサイズ、契約期間によって異なります。詳細情報は[こちら](https://drive.google.com/file/d/1kPP44d9NQEUqY65kjt61bSMfP1BvxHD6/view?usp=sharing)からご覧いただけます。InnerSource Commons のスポンサーに興味がある方、Partner と Supporter プログラムについての詳細をお知りになりたい方は、 sponsor@innersourcecommons.org までお問い合わせください。
+スポンサーシップの費用は、スポンサーシップの種類、組織の種類とサイズ、契約期間によって異なります。 詳細情報は[こちら](https://drive.google.com/file/d/1kPP44d9NQEUqY65kjt61bSMfP1BvxHD6/view?usp=sharing)からご覧いただけます。 InnerSource Commons のスポンサーに興味がある方、Partner と Supporter プログラムについての詳細をお知りになりたい方は、 sponsor@innersourcecommons.org までお問い合わせください。 
+
