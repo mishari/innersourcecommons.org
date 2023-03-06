@@ -3,16 +3,16 @@ type: book
 title: 'Getting Started With InnerSource'
 image: "/images/learn/books/getting-started-with-innersource-cover-thumb.jpg"
 weight: 1
-summary: InnerSource, le puissant mouvement de développement de logiciels libres dans les murs d'une organisation, où l'"ouverture" d'un projet s'étend à toutes les équipes de l'entreprise. L'auteur Andy Oram vous emmène à l'intérieur de l'InnerSource, d'abord en passant en revue les principes qui font le succès du développement de logiciels libres, puis en décrivant comment l'InnerSource a fonctionné chez PayPal.
+summary: Welcome to InnerSource, the powerful movement for developing open source software within the walls of a single organization, where the "openness" of a project extends across teams inside the company. In this report, O'Reilly editor and author Andy Oram takes you inside InnerSource, first by reviewing the principles that make open source development successful, and then by describing how InnerSource has worked at PayPal, the leading Internet commerce facilitator.
 book_author: Andy Oram
 book_publish_date: July 2015
 book_publisher: O’Reilly Media
 book_url: /documents/books/GettingStartedWithInnerSource.pdf
 aliases:
-    - /getting-started
+  - /getting-started
 ---
 
-Welcome to InnerSource, the powerful movement for developing open source software within the walls of a single organization, where the "openness" of a project extends across teams inside the company. In this report, O'Reilly editor and author Andy Oram takes you inside InnerSource, first by reviewing the principles that make open source development successful, and then by describing how InnerSource has worked at PayPal, the leading Internet commerce facilitator.
+InnerSource, le puissant mouvement de développement de logiciels libres dans les murs d'une organisation, où l'"ouverture" d'un projet s'étend à toutes les équipes de l'entreprise. L'auteur Andy Oram vous emmène à l'intérieur de l'InnerSource, d'abord en passant en revue les principes qui font le succès du développement de logiciels libres, puis en décrivant comment l'InnerSource a fonctionné chez PayPal.
 
 PayPal's path to InnerSource involved a series of large-scale corporate decisions that included a conscious shift in tools and corporate culture. Through InnerSource, the company not only achieved faster development and better quality, but also created an environment of cross-team cooperation that encouraged programmers to contribute to any of PayPal's development projects.
 
