@@ -2,7 +2,7 @@
 layout: page
 title: 'Spring Summit 2017'
 image: "images/events/cities/geneva.jpeg"
-# post type (regular/featured)
+#post type (regular/featured)
 date: 2017-04-18
 ---
 
@@ -25,8 +25,7 @@ A first version of the [schedule](https://tech.ebu.ch/files/live/sites/tech/file
 
 ### [Code of Conduct](/events/conduct/)
 
-All participants, vendors, and guests at InnerSource Commons events are required to abide by the [code of conduct](/events/conduct/). 
+All participants, vendors, and guests at InnerSource Commons events are required to abide by the [code of conduct](/events/conduct/).
 
 
-InnerSource Commons meetings run under the [Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_Rule): information discussed at a meeting can be shared but not attributed.
-https://innersourcecommons.org/slack)!
+InnerSource Commons meetings run under the [Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_Rule): information discussed at a meeting can be shared but not attributed. https://innersourcecommons.org/slack)!
