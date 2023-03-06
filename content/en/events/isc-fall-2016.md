@@ -2,7 +2,7 @@
 layout: page
 title: 'Fall Summit 2016'
 image: "images/events/cities/boston.jpeg"
-# post type (regular/featured)
+#post type (regular/featured)
 date: 2016-09-28
 ---
 
@@ -30,15 +30,15 @@ Please take the first-ever [State of InnerSource Survey](https://docs.google.com
 
 ### Agenda
 
-This Summit we are starting to break down the stages of an InnerSource journey and aligning the discussions with them. Each session will include time for discussions. Classes will be both experiential and "train the trainer" so that you can use these in your own organization. *Some* of the sessions we are expecting: 
+This Summit we are starting to break down the stages of an InnerSource journey and aligning the discussions with them. Each session will include time for discussions. Classes will be both experiential and "train the trainer" so that you can use these in your own organization. *Some* of the sessions we are expecting:
 
-| Tue Sep 27 | Wed Sep 28 | Thu Sep 29 | Fri Sep 30 |
-| --- | --- | --- | --- |
-|  | Stage: Inital Steps | Stage: Operational Concerns | Stage: Looking Forward |
-|  | Class - Getting Started | Class - Product Owners | Pattern Language |
-|  | Case Studies | Class - Trusted Committers | Case Studies |
-|  | Additional sessions | Additional sessions | Additional sessions |
-| Welcome dinner (sponsored)  | Group dinner | Group dinner | Retrospective |
+| Tue Sep 27                 | Wed Sep 28              | Thu Sep 29                  | Fri Sep 30             |
+| -------------------------- | ----------------------- | --------------------------- | ---------------------- |
+|                            | Stage: Inital Steps     | Stage: Operational Concerns | Stage: Looking Forward |
+|                            | Class - Getting Started | Class - Product Owners      | Pattern Language       |
+|                            | Case Studies            | Class - Trusted Committers  | Case Studies           |
+|                            | Additional sessions     | Additional sessions         | Additional sessions    |
+| Welcome dinner (sponsored) | Group dinner            | Group dinner                | Retrospective          |
 
 If you have specific sessions you would like to lead or participate in, please contact us via <summit@innersourcecommons.org> or mention it in the [survey](https://docs.google.com/forms/d/e/1FAIpQLSf1EBbeyYezb_j1U2x1K2YqrDTN7UPZYnYAkre2h5QceI0I4A/viewform).
 
@@ -73,25 +73,23 @@ There are many wonderful things to visit in the area. If you are traveling with 
 
 
 [Freedom Trail](http://www.thefreedomtrail.org/): A 2.5 mile self-guided walking tour that takes you from the Boston Common to the Charlestown Memorial. Along the way you will pass and have the opportunity to stop at multiple churches, graveyards, and meetinghouses that played an integral part of the American Revolution as well as the Bell in Hand Tavern and Union Oyster house.
- 
+
 [Trolley Tours](http://www.trolleytours.com/boston/) and [Duck Tours](http://www.bostonducktours.com/): If you are not the walking type you can take one of a few hop on hop off trolley tours or take Duck Tours. Duck tours last either 60 or 90 minutes and are fully narrated.
- 
+
 [Fenway Park](http://boston.redsox.mlb.com/bos/ballpark/tour.jsp): “America’s Ballpark” is located in Boston’s Back Bay area and was recently made a national monument. Take a tour or watch a game!
- 
-Harpoon and [Sam Adams](https://www.samueladams.com/boston-brewery/brewery-tours) Breweries:
-Both Boston based breweries have daily tours and tastings of their staple and seasonal fares. Harpoon provides a taproom for patrons who wish to sample more extensively.
-  
+
+Harpoon and [Sam Adams](https://www.samueladams.com/boston-brewery/brewery-tours) Breweries: Both Boston based breweries have daily tours and tastings of their staple and seasonal fares. Harpoon provides a taproom for patrons who wish to sample more extensively.
+
 [Faneuil Hall and Quincy Marketplace](http://www.faneuilhallmarketplace.com/): A hub of shops and dining on a cobblestone promenade in the heart of the city.
- 
+
 [MIT](https://institute-events.mit.edu/visit/tours) and [Harvard](https://institute-events.mit.edu/visit/tours) campus tours: Campus tours are very popular year round, weather dependent.
 
-[New England Aquarium](http://www.neaq.org/), [Museum of Science](http://www.mos.org), [Children’s Museum](http://www.bostonchildrensmuseum.org), [Museum of Fine Arts](http://www.mfa.org):
-All family friendly activities with constantly updated exhibits
+[New England Aquarium](http://www.neaq.org/), [Museum of Science](http://www.mos.org), [Children’s Museum](http://www.bostonchildrensmuseum.org), [Museum of Fine Arts](http://www.mfa.org): All family friendly activities with constantly updated exhibits
 
 
 ### [Code of Conduct](/events/conduct/)
 
-All participants, vendors, and guests at InnerSource Commons events are required to abide by the [code of conduct](/events/conduct/). 
+All participants, vendors, and guests at InnerSource Commons events are required to abide by the [code of conduct](/events/conduct/).
 
 
 InnerSource Commons meetings run under the [Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_Rule): information discussed at a meeting can be shared but not attributed.
