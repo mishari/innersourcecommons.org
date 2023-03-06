@@ -21,7 +21,7 @@ subtitle: "Nos partenaires sont des organisations qui aident à diriger le mouve
   <div class="container text-center" >
     <h2 class="display-3"> Nos Supporters </h2>
   </div>
-  
+
   <div class="container">
     <div class="row justify-content-center">
       {{< company name="Comcast" image="/images/logos/comcast.png" >}}{{< /company >}}
@@ -33,7 +33,7 @@ subtitle: "Nos partenaires sont des organisations qui aident à diriger le mouve
       {{< company name="Sourcegraph" image="/images/logos/sourcegraph.svg" >}}{{< /company >}}
     </div>
   </div>
-      
+
 <section class="section bg-light">
   <div class="container">
     <div class="row justify-content-center">
@@ -71,11 +71,11 @@ subtitle: "Nos partenaires sont des organisations qui aident à diriger le mouve
       </div>
     </div>
     <div class="row d-flex justify-content-center">
-        <a href="mailto:sponsor@innersourcecommons.org" class="btn btn-primary btn-sm" style="color: white;">Contactez-nous pour en savoir plus</a>
+        <a href="mailto:sponsor@innersourcecommons.org" class="btn btn-primary btn-sm" style="color: white;">Get in Touch to Find Out More</a>
     </div>
   </div>
 </section>
-      
+
 Nous sommes reconnaissants à nos Sponsors pour leur partenariat et leur soutien qui contribuent à la croissance de notre communauté, à la facilitation de notre travail et à la diffusion de l'information sur l'InnerSource.
 
 Les coûts de parrainage varient en fonction du type de parrainage, du type et de la taille de l'organisation et de la durée de l'engagement. Vous pouvez obtenir de plus amples informations sur [here](https://drive.google.com/file/d/1kPP44d9NQEUqY65kjt61bSMfP1BvxHD6/view?usp=sharing). Si vous êtes intéressés par le parrainage d'InnerSource Commons et souhaitez en savoir plus sur nos programmes de partenariat et de soutien, veuillez nous contacter en anglais à l'adresse  sponsor@innersourcecommons.org. 
