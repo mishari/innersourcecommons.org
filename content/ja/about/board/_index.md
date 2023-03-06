@@ -1,9 +1,9 @@
 ---
-title: "役員とガバナンス"
+title: "Board & Governance"
 type: "board"
-subtitle: InnerSource Commons は、一連の企業内規によって運営されている501(c)(3)非営利団体です。役員会では、ポリシーを設定し、実行する役員を任命します。役員会は、年単位で会員によって選出されます。InnerSource Commons は、米国で設立されています。コミュニティが成長するにつれて、我々は、欧州連合、ラテンアメリカ、および世界中で姉妹組織を発見することを期待しています。
+subtitle: InnerSource Commons は、一連の企業内規によって運営されている501(c)(3)非営利団体です。 役員会では、ポリシーを設定し、実行する役員を任命します。 役員会は、年単位で会員によって選出されます。 InnerSource Commons は、米国で設立されています。 コミュニティが成長するにつれて、我々は、欧州連合、ラテンアメリカ、および世界中で姉妹組織を発見することを期待しています。
 aliases:
-    - /board
+  - /board
 ---
 
 <!--
@@ -47,9 +47,7 @@ Klaas-Jan Stol is a lecturer with University College Cork, Ireland, a Funded Inv
 {{< /board-member >}}
 
 {{< board-member name="Sebastian Spier" image="/images/about/Sebastian_Spier.jpg" style="bg-light" >}}
-Sebastian Spier is Director of Engineering Programs at Meltwater, where he works on tools and methods to improve the daily work of 500+ engineers, removing frictions wherever possible.
-As an engineering manger for various software development teams, he has experienced InnerSource as a central building block to support successful collaboration in distributed teams.
-As a Member of the InnerSource Commons Foundation, he is maintaining the collection of InnerSource Patterns, always looking to help others to use and improve these patterns.
+Sebastian Spier is Director of Engineering Programs at Meltwater, where he works on tools and methods to improve the daily work of 500+ engineers, removing frictions wherever possible. As an engineering manger for various software development teams, he has experienced InnerSource as a central building block to support successful collaboration in distributed teams. As a Member of the InnerSource Commons Foundation, he is maintaining the collection of InnerSource Patterns, always looking to help others to use and improve these patterns.
 {{< /board-member >}}
 
 {{< board-member name="Tom Sadler" title="Secretary" image="/images/about/Tom_Sadler.jpg" >}}
@@ -71,11 +69,7 @@ All of Cedric’s work, personal and professional, has been guided by my desire 
 {{< /board-member >}}
 
 {{< board-member name="Russell Rutledge" title="Assistant Secretary" image="/images/about/Russell_Rutledge.jpg" >}}
-Russ Rutledge is the Senior Director of InnerSource and Collaboration at WellSky.
-WellSky is a leading technology company offering a range of software solutions that help organizations across the healthcare continuum.
-In this role, Russ is leading a transformational change in the company towards broad and pervasive InnerSource as the normal way that work gets done.
-Previously, Russ founded and led the Developer Collaboration effort at Nike.
-Russ's drive and passion is to enable all software engineers to achieve incredible technical and business throughput via quality tooling and streamlined work process.
+Russ Rutledge is the Senior Director of InnerSource and Collaboration at WellSky. WellSky is a leading technology company offering a range of software solutions that help organizations across the healthcare continuum. In this role, Russ is leading a transformational change in the company towards broad and pervasive InnerSource as the normal way that work gets done. Previously, Russ founded and led the Developer Collaboration effort at Nike. Russ's drive and passion is to enable all software engineers to achieve incredible technical and business throughput via quality tooling and streamlined work process.
 {{< /board-member >}}
 
 {{< board-member name="Maximilian Capraro" title="Assistant Treasurer" image="/images/about/Maximilian_Capraro.jpg" >}}
