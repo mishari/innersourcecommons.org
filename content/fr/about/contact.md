@@ -1,6 +1,6 @@
 ---
 title: "Nous contacter"
-subtitle: "Rester en contact - voici toutes les façons de contacter l'ISC"
+subtitle: "Stay in touch — here are all the ways to contact the InnerSource Commons"
 description: "Rester en contact avec InnerSource Commons."
 image: "/images/logo.png"
 type: wide
