@@ -1,20 +1,25 @@
 ---
 title: "À propos d'InnerSource Commons"
+subtitle: ""
+description: "The InnerSource Commons is a growing community of practitioners with the goal of creating and sharing knowledge about InnerSource."
+draft: false
 ---
-<section class="section section">
+
+<section class="section">
   <div class="container">
-    <div class="row align-items-center mb-3">
-      <div class="col-md-9">
-        <img src="/images/logo-big.png" class="img-fluid logo-home pr-5" style="float: left;">
+    <div class="row align-items-center">
+      <div class="col-md-4 mb-4 mb-md-0">
+        {{< announcements >}}
+      </div>
+      <div class="col-md-7">
         <p>{{< about-text >}}
         </p>
-      </div>
-      <div class="col-md-3">
-        {{< contact-form mode="vertical-light" >}}
+        <a href="/about/announcements" class="btn-link">Announcements <i class="ti-arrow-right"></i></a>
       </div>
     </div>
   </div>
 </section>
+
 
 <section class="section bg-light">
   <div class="container">
