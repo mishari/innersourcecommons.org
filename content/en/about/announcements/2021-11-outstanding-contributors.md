@@ -15,9 +15,9 @@ The Patterns working group added 13 new Level 1 patterns and 2 new Level 2 patte
 
 Throughout these activities, we have seen 3 people shine and contribute above and beyond to our community. With this in mind, during the InnerSource Summit 2021, we started a new tradition in the InnerSource Commons: the Annual Outstanding Contributor award.
 
-This year’s award is going to: 
+This year’s award is going to:
 - **Dmitrii Sugrobov** for his consistent contribution to the Marketing and Outreach group and the Learning Path working group as well as for leading the development of our new website and for his involvement in the online summits.
-- **Sebastian Spier** for his consistent contributions in all our working groups as well as leading the Patters group and being actively present in our 1-1 virtual coffee sessions. 
+- **Sebastian Spier** for his consistent contributions in all our working groups as well as leading the Patters group and being actively present in our 1-1 virtual coffee sessions.
 - **Fei Wan**, who is also contributing to multiple working groups and has made an especially valuable contribution to the Patterns group: the patterns map which makes our collection of patterns much more accessible than it was before.
 
 We would like to extend a massive thank you to the 3 exceptional contributors to our community and officially recognise them as the InnerSource Commons 2021 Outstanding Contributors. Hats off to you all!
@@ -27,8 +27,8 @@ We would like to extend a massive thank you to the 3 exceptional contributors to
 <p>
 {{< about-text >}}
 </p>
- 
+
 ### Contact Information
- 
+
 If you would like to learn more about InnerSource Commons or our new Sponsor Program, please visit www.innersourcecommons.org/about/sponsors/ or contact info@innersourcecommons.org.
 
