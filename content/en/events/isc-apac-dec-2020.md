@@ -11,9 +11,7 @@ The 12th InnerSource Commons Summit was our first summit timed for our growing A
 
 ### The following information is for reference purposes only.
 
-We continue to explore new ways to get together and keep advancing in the body of knowledge of InnerSource. Nowadays, particularly in this industry, it
-is more important than ever to successfully work remotely and across different geographical areas. This online event has this in mind and we hope to learn from
-each other, what it is working and what it is not.
+We continue to explore new ways to get together and keep advancing in the body of knowledge of InnerSource. Nowadays, particularly in this industry, it is more important than ever to successfully work remotely and across different geographical areas. This online event has this in mind and we hope to learn from each other, what it is working and what it is not.
 
 ### Agenda and speakers
 
