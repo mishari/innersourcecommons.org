@@ -1,17 +1,22 @@
 ---
 title: Workbook
 contributors:
-  - name: Jason Nguyen
+  - 
+    name: Jason Nguyen
     url: https://github.com/GoFightNguyen
-  - name: Johannes Tigges
+  - 
+    name: Johannes Tigges
     url: https://github.com/lenucksi
-  - name: rrrutledge
+  - 
+    name: rrrutledge
     url: https://github.com/rrrutledge
-  - name: Nick Adams
+  - 
+    name: Nick Adams
     url: https://github.com/nadamsoreilly
 image: images/learn/workbooks/Learning Path-Product Owner Workbook-image.png
 weight: 7
 ---
+
 <div class="sect2">
 <h3 id="_video_innersource_product_owners">Video:  InnerSource Product Owners</h3>
 <div class="sect3">
