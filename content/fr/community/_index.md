@@ -21,19 +21,19 @@ title: "Communauté"
     <div class="row justify-content-center">
       <div class="col-12 text-center mb-4">
         <p class="mt-3 h1">Commencer dès aujourd'hui</p>
-        <p> Il y a plusieurs façons de s'impliquer dans la communauté InnerSource Commons.</p>
+        <p>Il y a plusieurs façons de s'impliquer dans la communauté InnerSource Commons.</p>
       </div>
       <div class="col-md-4 col-sm-6 mb-4">
         <div class="feature-card text-center">
           <i class="ti-hand-open mb-3"></i>
-          <h4 class="mb-2">Rencontrer la communauté </h4>
+          <h4 class="mb-2">Rencontrer la communauté</h4>
           <p>Dites bonjour dans le canal #general de Slack. Partagez vos propres expériences ou posez des questions sur l'InnerSource. Nous profiterons tous de ces discussions.</p>
         </div>
       </div>
       <div class="col-md-4 col-sm-6 mb-4">
         <div class="feature-card text-center">
           <i class="ti-comment-alt mb-3"></i>
-          <h4 class="mb-2">Discuter avec nous</h4>
+          <h4 class="mb-2">Have a Chat</h4>
           <p>Rejoignez les #virtual-coffee-buddies pour une discussion en personne avec un membre de notre communauté. Discutez de vos défis spécifiques et réfléchissez à des idées.</p>
         </div>
       </div>
@@ -107,13 +107,29 @@ title: "Communauté"
   <div class="container">
     <div class="row align-items-center">
       <div class="col-md-6 order-2 order-md-1">
+        <p class="section-title h2">ISPO Working Group</p>
+        <p>The ISPO Working Group supports InnerSource Program Offices (ISPOs) with materials needed to establish themselves, teach and scale InnerSource in their respective company. The group holds regular meetings, but most work is done asynchronously on <a href="https://github.com/InnerSourceCommons/ispo-working-group" target="_blank">GitHub</a>.
+        </p>
+        <a href="/slack" class="btn btn-primary btn-sm text-lowercase"><img src="/images/slack.png" class="pr-1"/> ispo-working-group</a>
+      </div>
+      <div class="col-md-5 order-1 order-md-2 mb-4 mb-md-0">
+        <img src="/images/community/cuate.png" class="img-fluid">
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-md-3 offset-md-1 mb-5 mb-md-0">
+         <img src="/images/logo-big.png" class="img-fluid">
+      </div>
+      <div class="col-md-6 ">
         <p class="section-title h2">Conseil d'administration & Gouvernance</p>
         <p>InnerSource Commons est un organisme à but non lucratif (501(c)(3) selon le code des impôts US, et le service au Conseil d'administration est un moyen pour la communauté de renforcer son engagement envers l'InnerSource.
         </p>
         <a href="/about/board/" class="btn-link">En savoir plus sur le Conseil d'Admninistration de l'ISC <i class="ti-arrow-right"></i></a>
-      </div>
-      <div class="col-md-3 offset-md-1 order-1 order-md-2 mb-4 mb-md-0">
-        <img src="/images/logo-big.png" class="img-fluid">
       </div>
     </div>
   </div>
@@ -159,7 +175,7 @@ title: "Communauté"
         <a class="twitter-timeline" data-height="500" data-dnt="true" href="https://twitter.com/InnerSourceOrg?ref_src=twsrc%5Etfw"></a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
       </div>
       <div class="col-md-5 offset-md-1">
-        <p class="h2 section-title">Gardons le contact</p>
+        <p class="h2 section-title">Stay Connected</p>
         <p class="mb-4">La plupart de la vie de la communauté se déroule sur notre <a href="https://join.slack.com/t/innersourcecommons/shared_invite/zt-1l4a602b6-DKD0B0Y8~WE4aDf~o1xCRw">Canal Slack</a>. Vous pouvez également vous tenir au courant des nouvelles, des événements et des activités d'InnerSource Commons en vous inscrivant à notre liste de diffusion ci-dessous, en nous suivant sur <a href="https://twitter.com/InnerSourceOrg">Twitter</a> et <a href="https://www.linkedin.com/company/innersourcecommons">LinkedIn</a>, at en suivant notre <a href="https://www.youtube.com/channel/UCoSPSd6Or4F_vpjo4SmyoEA">Chaine YouTube </a>.</p>
         <p class="h3 section-title">S'inscrire sur notre liste de diffusion</p>
         {{< contact-form >}}
