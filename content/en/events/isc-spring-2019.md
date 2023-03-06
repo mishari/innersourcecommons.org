@@ -2,9 +2,10 @@
 layout: page
 title: 'Spring Summit 2019'
 image: "images/events/cities/galway.jpeg"
-# post type (regular/featured)
+#post type (regular/featured)
 date: 2019-04-11
 ---
+
 ### 9th to 11th April 2019 in Galway, Ireland
 Follow us on [Twitter](https://twitter.com/Commons2019) and [Facebook](https://www.facebook.com/InnerSourceCommonsSpringSummit2019) and share your experience of the Summit.
 
@@ -369,7 +370,7 @@ Culture is hard to describe, and even harder to emulate. So how do you even star
 ### Call For Presentations
 Use this form to submit your proposal [here](https://tinyurl.com/ycuxbjbe) for the InnerSource Commons Spring Summit 2019
 
-All proposals are due by midnight, February 17th, 2019. All presentations at the Spring Summit, unless otherwise designated by the presenter, will be covered by the Chatham House Rule. See the [Chatham House Rule](https://www.chathamhouse.org/about/chatham-house-rule). 
+All proposals are due by midnight, February 17th, 2019. All presentations at the Spring Summit, unless otherwise designated by the presenter, will be covered by the Chatham House Rule. See the [Chatham House Rule](https://www.chathamhouse.org/about/chatham-house-rule).
 
 ### Registration
 Please visit our [Registration Page](https://innersourcesummit2019.brownpapertickets.com/) to register for InnerSource Commons Spring Summit 2019.
@@ -380,19 +381,19 @@ We invite interested organisations and companies to sponsor this renowned event.
 ### Agenda and Speakers
 We are delighted to welcome John Landy and Eoin Conneely (Ericsson) and Professor Brian Fitzgerald (Lero – the Irish Software Research Centre) as our keynote speakers.
 
-<img alt="John Landy photo" src="/images/events/speakers/John-Lundy.jpg" width="200" align="right"/>
+<img alt="John Landy photo" src="/images/events/speakers/John-Lundy.jpg" width="200" align="right" />
 
 **John Landy**
 
-John Landy is a leader in Systems and Technology at Ericsson.  In his 20-year career at Ericsson, John has held a number of technical leadership roles, including head product owner for the Community-Developed Software project, which introduced Inner Source software development to the Ericsson. As well as participating in numerous industry and academic events in Ireland,  John has spoken at OSCON and gave a keynote address at the 2017 Inner Source Commons Fall Summit.  He also contributed to the O’Reilly 2018 publication “Adopting Inner Source”. John holds a Bachelor of Science in Computer Systems from the University of Limerick. 
+John Landy is a leader in Systems and Technology at Ericsson.  In his 20-year career at Ericsson, John has held a number of technical leadership roles, including head product owner for the Community-Developed Software project, which introduced Inner Source software development to the Ericsson. As well as participating in numerous industry and academic events in Ireland,  John has spoken at OSCON and gave a keynote address at the 2017 Inner Source Commons Fall Summit.  He also contributed to the O’Reilly 2018 publication “Adopting Inner Source”. John holds a Bachelor of Science in Computer Systems from the University of Limerick.
 
-<img alt="Eoin Conneely photo" src="/images/events/speakers/Eoin-Cooneely.jpg" width="200" align="right"/>
+<img alt="Eoin Conneely photo" src="/images/events/speakers/Eoin-Cooneely.jpg" width="200" align="right" />
 
 **Eoin Conneely**
 
 Eoin Conneely is the Head of the Application Development Platform Program to enable cloud native application development & Head of Strategy Implementation for PDU OSS. Prior to this role, Eoin amassed over 25 years’ experience with Ericsson (LM Ericsson Limited), and also holds extensive professional experience in software and Agile S/W development. Eoin earned his Bachelor of Engineering Electronic (1989-1993) from National University of Ireland, Galway
 
-<img alt="Brian Fitzgerald photo" src="/images/events/speakers/Brian-Fitzgerald.jpg" width="200" align="right"/>
+<img alt="Brian Fitzgerald photo" src="/images/events/speakers/Brian-Fitzgerald.jpg" width="200" align="right" />
 
 **Professor Brian Fitzgerald**
 
@@ -515,7 +516,7 @@ Olivier is professor at the University of Applied Sciences and Arts Western Swit
 Managing Director, Product Engineering
 
 </div>
-  
+
 <div class="clearfix">
 <img alt="Shelly Nezri photo" src="/images/events/speakers/Shelly_Nezri.jpeg" width="200" class="speaker-photo"/>
 
@@ -575,11 +576,11 @@ Kristof Van Tomme is an open source strategist and architect. He is the CEO and 
 ### What is the InnerSource Commons?
 
 The InnerSource Commons ([InnerSourceCommons.org](http://innersourcecommons.org)) aka ISC is a consortium of representatives from almost a hundred companies and institutions. It utilizes open source methods to provide organizations pursuing inner sourcing a forum for discussing and improving the practice of InnerSource through the sharing of experiences (under the [Chatham House Rule](https://www.chathamhouse.org/about/chatham-house-rule)), creation and review of InnerSource patterns, and the open exchange of ideas.
-  
+
 ### Who should attend?
 
 The InnerSource Common Summits welcomes software professionals at all levels, from executive level manager to software developer.  The program targets software development managers and executive managers in particular because adopting InnerSource requires significant efforts to make changes in the organization—whether these are implemented top-down or bottom-up. If you or your organization is adopting, or considering adopting, InnerSource, then attending the InnerSource Summit is the best thing you can do.
-   
+
 ### What will I get from this event?
 
 The three key reasons to attend the InnerSource Common Summits are:
@@ -621,8 +622,8 @@ Other Hotels & Hostels in Galway City:
 * [Park House Hotel](https://www.booking.com/hotel/ie/park-house.html)
 * [Imperial Hotel](https://www.imperialhotelgalway.ie/)
 * [Connacht Hotel](https://www.theconnacht.ie/)
-* [Snoozles Hostel Galway](https://www.snoozleshostelgalway.ie/) 
-* [The Nest Boutique Hostel](http://www.thenestaccommodation.com/) 
+* [Snoozles Hostel Galway](https://www.snoozleshostelgalway.ie/)
+* [The Nest Boutique Hostel](http://www.thenestaccommodation.com/)
 
 
 ### Restaurants
@@ -638,14 +639,10 @@ Below is a list of some recommended restaurants around Galway city:
 
 ### [Code of Conduct](/events/conduct/)
 
-All participants, vendors, and guests at InnerSource Commons events are required to abide by the [code of conduct](/events/conduct/). 
+All participants, vendors, and guests at InnerSource Commons events are required to abide by the [code of conduct](/events/conduct/).
 
 InnerSource Commons meetings and events run under the [Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_Rule): information discussed at a meeting can be shared but not attributed.
 
-Interested in getting involved? Email <summit@innersourcecommons.org> or join the conversation on the [#innersourcecommons](https://innersourcecommons.org/slack) slack channel!
-
- <h3>Sponsors</h3> <p>
-    <div style="width:100%">
-    <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
+Interested in getting involved? Email <summit@innersourcecommons.org> or join the conversation on the [#innersourcecommons](https://innersourcecommons.org/slack) slack channel!<h3>Sponsors</h3> <p> <div style="width:100%"> <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
       <img alt="NearForm" width="200" src="/images/events/speakers/NF_Shared_Brand_Assets_logo_stacked_positive.png"/>
     </div>
