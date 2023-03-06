@@ -4,11 +4,10 @@ title: "InnerSource Services Directory"
 image: "/images/learn/services_directory.png"
 date: 2022-05-16T00:00:00+00:00
 ---
-Welcome to the InnerSource Services Directory. We have compiled a list of companies that provide InnerSource services that fit in 3 categories: Tools, Consulting Services and Training Services.
-If you would like to be added to the services list please send us an email at info@innersourcecommons.org.
 
-We do our best to ensure that the information on this page is accurate and helpful at all times. However, any link or content listed below does not represent any endorsement or recommendation by InnerSource Commons and does not mean that we have any association with the linked organizations.
-</p>
+Welcome to the InnerSource Services Directory. We have compiled a list of companies that provide InnerSource services that fit in 3 categories: Tools, Consulting Services and Training Services. If you would like to be added to the services list please send us an email at info@innersourcecommons.org.
+
+We do our best to ensure that the information on this page is accurate and helpful at all times. However, any link or content listed below does not represent any endorsement or recommendation by InnerSource Commons and does not mean that we have any association with the linked organizations. </p>
 
 <table class="schedule table table-striped">
     <tr>
