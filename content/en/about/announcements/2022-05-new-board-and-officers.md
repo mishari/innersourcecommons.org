@@ -9,7 +9,7 @@ type: "announcements"
  
 May, 2022
 
-The InnerSource Commons Foundation is delighted to announce the election of a new Board of Directors comprising of Danese Cooper (Chairperson), Isabel Drost-Fromm (President), Daniel Izquierdo Cortazar (Vice President), Tom Sadler (Secretary), Jacob Green, Georg Grütter, Johannes Tigges, Sebastian Spier, and Klaas-Jan Stol. We would also like to congratulate our newly elected Officers: Silona Bonewald (Treasurer), Maximilian Capraro (Assistant Treasurer) and Russell Rutledge (Assistant Secretary). 
+The InnerSource Commons Foundation is delighted to announce the election of a new Board of Directors comprising of Danese Cooper (Chairperson), Isabel Drost-Fromm (President), Daniel Izquierdo Cortazar (Vice President), Tom Sadler (Secretary), Jacob Green, Georg Grütter, Johannes Tigges, Sebastian Spier, and Klaas-Jan Stol. We would also like to congratulate our newly elected Officers: Silona Bonewald (Treasurer), Maximilian Capraro (Assistant Treasurer) and Russell Rutledge (Assistant Secretary).
 
 The Board of Directors has been elected by the InnerSource Commons Members as the best people to set and drive the vision of the foundation through the next year. Our Officers play an essential role in helping us implement that vision. More details on all our Board and Officers can be found at https://innersourcecommons.org/about/board/.
 
@@ -21,8 +21,8 @@ The Board of Directors has been elected by the InnerSource Commons Members as th
 <p>
 {{< about-text >}}
 </p>
- 
+
 ### Contact Information
- 
+
 If you would like to learn more about InnerSource Commons or our new Sponsor Program, please visit www.innersourcecommons.org/about/sponsors/ or contact info@innersourcecommons.org.
 
