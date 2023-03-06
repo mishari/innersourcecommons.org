@@ -5,6 +5,7 @@ description: Notre sélection de livres sur l'InnerSource, c'est le moyen idéal
 image: "images/learn/books.png"
 weight: 2
 aliases:
-    - /resources/books
+  - /resources/books
 ---
+
 Une collection de livres sur l'InnerSource. Produits directement par ou en association avec InnerSource Commons.
