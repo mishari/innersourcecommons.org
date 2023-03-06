@@ -1,21 +1,28 @@
 ---
 title: Workbook
 contributors:
-  - name: rrrutledge
+  - 
+    name: rrrutledge
     url: https://github.com/rrrutledge
-  - name: Sebastian Spier
+  - 
+    name: Sebastian Spier
     url: https://github.com/spier
-  - name: Jason Nguyen
+  - 
+    name: Jason Nguyen
     url: https://github.com/GoFightNguyen
-  - name: Johannes Tigges
+  - 
+    name: Johannes Tigges
     url: https://github.com/lenucksi
-  - name: Isabel Drost-Fromm
+  - 
+    name: Isabel Drost-Fromm
     url: https://github.com/MaineC
-  - name: Nick Adams
+  - 
+    name: Nick Adams
     url: https://github.com/nadamsoreilly
 image: images/learn/workbooks/Learning Path-Contributor Workbook-image.png
 weight: 7
 ---
+
 <div class="sect2">
 <h3 id="_video_innersource_contributor">Video:  InnerSource Contributor</h3>
 <div class="sect3">
