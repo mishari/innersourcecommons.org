@@ -23,5 +23,4 @@ report_publish_date: 2021-12-30
 
 ## 著者
 
-本調査は、アイルランドのソフトウェアリサーチセンターである Lero の Tapajit Dey氏によって実施されました。
-また、InnerSource Commons の Cristina Coffey氏と Tadhg O'Neill氏は、レポートのアウトライン設計とデザインに貢献しています。
+本調査は、アイルランドのソフトウェアリサーチセンターである Lero の Tapajit Dey氏によって実施されました。 また、InnerSource Commons の Cristina Coffey氏と Tadhg O'Neill氏は、レポートのアウトライン設計とデザインに貢献しています。 Cristina Coffey and Tadhg O’Neill of InnerSource Commons contributed to the report outline and design.
