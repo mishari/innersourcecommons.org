@@ -2,6 +2,7 @@
 title: "Annonces"
 type: "announcements"
 subtitle: "Annonces InnerSource Commons."
-# meta description
+#meta description
 description: "Annonces InnerSource Commons."
 ---
+
