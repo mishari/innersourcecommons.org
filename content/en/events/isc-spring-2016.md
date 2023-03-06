@@ -2,7 +2,7 @@
 layout: page
 title: 'Spring Summit 2016'
 image: "images/events/cities/london.jpeg"
-# post type (regular/featured)
+#post type (regular/featured)
 date: 2016-04-21
 ---
 
@@ -59,5 +59,4 @@ Looking forward to seeing you there!
 * and the whole InnerSource community
 
 ### Hosts
-![Bloomberg](/images/events/bloomberg.jpg)
-![Paypal](/images/events/paypal.png)
+![Bloomberg](/images/events/bloomberg.jpg) ![Paypal](/images/events/paypal.png)
