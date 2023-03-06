@@ -1,19 +1,25 @@
 ---
 title: Workbook
 contributors:
-  - name: nktrk
+  - 
+    name: nktrk
     url: https://github.com/nktrk
-  - name: Jason Nguyen
+  - 
+    name: Jason Nguyen
     url: https://github.com/GoFightNguyen
-  - name: Johannes Tigges
+  - 
+    name: Johannes Tigges
     url: https://github.com/lenucksi
-  - name: rrrutledge
+  - 
+    name: rrrutledge
     url: https://github.com/rrrutledge
-  - name: Nick Adams
+  - 
+    name: Nick Adams
     url: https://github.com/nadamsoreilly
 image: images/learn/workbooks/Learning Path-Introduction Workbook-image.png
 weight: 9
 ---
+
 <div class="sect2">
 <h3 id="_video_introduction_to_innersource">Video: Introduction to InnerSource</h3>
 <div class="sect3">
@@ -320,7 +326,7 @@ More than one answer may be correct in some questions.</p>
 <p>Stop their own coding to take on the role</p>
 </li>
 <li>
-<p>Increase their scrutiny	 of contributed code</p>
+<p>Increase their scrutiny   of contributed code</p>
 </li>
 <li>
 <p>Review code written by their own team</p>
