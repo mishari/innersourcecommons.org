@@ -1,19 +1,25 @@
 ---
 title: Workbook
 contributors:
-  - name: Jason Nguyen
+  - 
+    name: Jason Nguyen
     url: https://github.com/GoFightNguyen
-  - name: Isabel Drost-Fromm
+  - 
+    name: Isabel Drost-Fromm
     url: https://github.com/MaineC
-  - name: Johannes Tigges
+  - 
+    name: Johannes Tigges
     url: https://github.com/lenucksi
-  - name: rrrutledge
+  - 
+    name: rrrutledge
     url: https://github.com/rrrutledge
-  - name: Nick Adams
+  - 
+    name: Nick Adams
     url: https://github.com/nadamsoreilly
 image: images/learn/workbooks/Learning Path-Trusted Committer Workbook-image.png
 weight: 9
 ---
+
 <div class="sect2">
 <h3 id="_video_the_trusted_committer_role_in_innersource">Video:  The Trusted Committer Role in InnerSource</h3>
 <div class="sect3">
