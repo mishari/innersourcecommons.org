@@ -6,3 +6,4 @@ redirect: "https://patterns.innersourcecommons.org"
 type: "redirects"
 image: "images/learn/patterns.jpg"
 ---
+
