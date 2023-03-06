@@ -2,7 +2,7 @@
 layout: page
 title: 'InnerSource Day @ OSCON 2019'
 image: "images/events/cities/portland.jpeg"
-# post type (regular/featured)
+#post type (regular/featured)
 date: 2019-05-16
 redirect: "https://conferences.oreilly.com/oscon/oscon-or-2019/public/schedule/full/innersource-day.html"
 type: "redirects"
