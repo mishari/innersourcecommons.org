@@ -20,5 +20,4 @@ You can find more information about the process in the contributing section.
 
 Each chapter in the book is authored and reviewed by different people. That information can be found at the beginning of each chapter. This initiative is fostered by [Bitergia](https://bitergia.com/) although given some technical issues, we finally decided to open this under a personal repository.
 
-For further questions, please contact José Manrique López or Daniel Izquierdo:
-(jsmanrique|dizquierdo) at bitergia dot com.
+For further questions, please contact José Manrique López or Daniel Izquierdo: (jsmanrique|dizquierdo) at bitergia dot com.
