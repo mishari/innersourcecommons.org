@@ -5,6 +5,7 @@ type: "community"
 image: "images/learn/patterns.png"
 weight: 1
 ---
+
 <section class="section">
   <div class="container">
     <div class="row align-items-center">
@@ -57,7 +58,6 @@ weight: 1
     </div>
   </div>
 </section>
-
 
 ## How to Get Involved
 
