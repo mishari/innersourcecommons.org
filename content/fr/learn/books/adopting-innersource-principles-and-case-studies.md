@@ -3,18 +3,18 @@ type: book
 title: 'Adopting InnerSource'
 image: "/images/learn/books/adopting-innersource-cover-thumb.jpg"
 weight: 4
-summary: Danese Cooper and Klaas-Jan Stol présentent une série d'études de cas dans diverses entreprises afin de montrer quand et pourquoi l'InnerSource peut être utile à votre organisation. Les études de cas discutent des difficultés à lancer des projets InnerSource, ainsi que des progrès réalisés jusqu'à ce jour et de leurs retombées positives ou négatives.
+summary: In this book, Danese Cooper and Klaas-Jan Stol present a series of case studies at a range of companies to show when and why InnerSource may be useful to your organization. The case studies candidly discuss the difficulties of getting InnerSource projects started, along with the progress so far and the benefits or negative fallout.
 book_author: Danese Cooper & Klaas-Jan Stol
 book_publish_date: July 2018
 book_publisher: O’Reilly Media
 book_url: /documents/books/AdoptingInnerSource.pdf
 aliases:
-    - /resources/books/adoptinginnersource/
+  - /resources/books/adoptinginnersource/
 ---
 
 InnerSource is a software development strategy rapidly spreading throughout large corporations - and it is also more. At its essence, InnerSource enables software developers to contribute to the efforts of other teams, fostering transparency and openness to contributions from others. But beyond that, InnerSource represents a collaborative and empowering way of involving employees in making and implementing decisions throughout the corporation. It embodies a philosophy of human relations, an approach to rewards and motivations, and a loose, adaptable set of tools and practices.
 
-In this book, Danese Cooper and Klaas-Jan Stol present a series of case studies at a range of companies to show when and why InnerSource may be useful to your organization. The case studies candidly discuss the difficulties of getting InnerSource projects started, along with the progress so far and the benefits or negative fallout.
+Danese Cooper and Klaas-Jan Stol présentent une série d'études de cas dans diverses entreprises afin de montrer quand et pourquoi l'InnerSource peut être utile à votre organisation. Les études de cas discutent des difficultés à lancer des projets InnerSource, ainsi que des progrès réalisés jusqu'à ce jour et de leurs retombées positives ou négatives.
 
 In this book you can read about:
 
