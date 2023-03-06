@@ -2,25 +2,24 @@
 layout: page
 title: 'Spring Summit 2018'
 image: "images/events/cities/stuttgart.jpeg"
-# post type (regular/featured)
+#post type (regular/featured)
 date: 2018-05-16T00:00:00+00:00
 youtubeLink: https://www.youtube.com/watch?v=4fgFpl-e6Vs&list=PLCH-i0B0otNT6m6EUu2ZDFyEuXXI5JkUK
 ---
+
 ### May 16-18 Wed-Fri near Stuttgart, Germany
 
 ### Pictures and Videos
 
-The ISC.S6 is a wrap! Thanks to all attendees for making this summit such an
-engaging and interesting one!
+The ISC.S6 is a wrap! Thanks to all attendees for making this summit such an engaging and interesting one!
 
-<img alt="ISC.S6 Crowd" width="600" src="/images/events/spring2018.jpg"/>
+<img alt="ISC.S6 Crowd" width="600" src="/images/events/spring2018.jpg" />
 
 We have published the first videos on the InnerSource Commons YouTube channel:
 
 [ISC.S6 Videos](https://www.youtube.com/playlist?list=PLCH-i0B0otNT6m6EUu2ZDFyEuXXI5JkUK)
 
-The authors of these videos have released them for sharing under the
-Creative Commons license (CC BY).
+The authors of these videos have released them for sharing under the Creative Commons license (CC BY).
 
 ### Agenda and speakers
 
@@ -333,7 +332,7 @@ This talk will present some internal discussion around the topic of the maturity
         <td class="time">15:20 - 19:00</td>
         <td colspan="2">Special Event</td>
     </tr>
-</table>    
+</table>
 
 <table class="schedule table table-striped">
     <tr>
@@ -450,8 +449,7 @@ Inner source is the application of open source methodologies to internally-devel
 
 ### Our Keynote Speakers
 
-<div style="width:100%">
-    <div style="float:left;padding-right:30px;padding-bottom:30px">
+<div style="width:100%"> <div style="float:left;padding-right:30px;padding-bottom:30px">
         <img alt="Dr. Stefan Ferber" width="200" src="/images/events/speakers/stefan-ferber.png"/>
     </div>
 
@@ -523,8 +521,7 @@ Disagreements and misunderstandings are common even in the most high-performing 
 
 <div style="clear:both;"></div>
 
-<div style="width:100%">
-    <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
+<div style="width:100%"> <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
         <img alt="Karsten Gerloff" width="200" src="/images/events/speakers/karsten-gerloff.jpg"/>
     </div>
 
@@ -544,17 +541,13 @@ The Siemens Inner Source platform started as a way for one division to maintain 
 
 ### Conference Speakers
 
-<div class="clearfix">
-<img alt="Spiros Aktipis photo" src="/images/events/speakers/spiros_aktipis.png" width="200" class="speaker-photo"/>
-
+<div class="clearfix"> <img alt="Spiros Aktipis photo" src="/images/events/speakers/spiros_aktipis.png" width="200" class="speaker-photo" />
 **Spiros Aktipis**
-
 Having in total 16 years’ of experience in the telecommunications industry specialized in Software Development and Project / Program Management. With a proven track record of leading (as Program Manager) complex & multi-location programs/projects across different Core products & business portfolios during the last 8 years. Currently working as Inner source project manager in NOKIA for Telecommunication Core Networks. Responsible for driving the execution of Inner Source program (against the agreed targets) across different MN Cloud Core products in the development organization of 3000 people or so.
-
 </div>
 
 <div class="clearfix">
-<img alt="Erin Bank photo" src="/images/events/speakers/erin-bank.png" width="200" class="speaker-photo"/>
+<img alt="Erin Bank photo" src="/images/events/speakers/erin-bank.png" width="200" class="speaker-photo" />
 
 **Erin Bank**
 
@@ -563,7 +556,7 @@ Erin Bank has 20 years of experience in engineering program management and techn
 </div>
 
 <div class="clearfix">
-<img alt="Adam Baratz photo" src="/images/events/speakers/adam-barratz.jpg" width="200" class="speaker-photo"/>
+<img alt="Adam Baratz photo" src="/images/events/speakers/adam-barratz.jpg" width="200" class="speaker-photo" />
 
 **Adam Baratz**
 
@@ -572,7 +565,7 @@ Adam is a Director of Engineering at Wayfair. He leads the Boston-based teams th
 </div>
 
 <div class="clearfix">
-<img alt="Marko Berkovic photo" src="https://pbs.twimg.com/profile_images/971017752248045568/otR79YgA_400x400.jpg" width="200" class="speaker-photo"/>
+<img alt="Marko Berkovic photo" src="https://pbs.twimg.com/profile_images/971017752248045568/otR79YgA_400x400.jpg" width="200" class="speaker-photo" />
 
 **Marko Berkovic**
 
@@ -581,7 +574,7 @@ Marko is passionate about the power of software, how it is improving our lives, 
 </div>
 
 <div class="clearfix">
-<img alt="Maximilian Capraro photo" src="https://osr.cs.fau.de/wp-content/uploads/2013/12/max.png" width="200" class="speaker-photo"/>
+<img alt="Maximilian Capraro photo" src="https://osr.cs.fau.de/wp-content/uploads/2013/12/max.png" width="200" class="speaker-photo" />
 
 **Maximilian Capraro**
 
@@ -592,7 +585,7 @@ Maximilian Capraro is a researcher and working toward the PhD degree at the Open
 <div style="clear:both;"></div>
 
 <div class="clearfix">
-<img alt="Danese Cooper photo" src="/images/events/speakers/Danese_Cooper.jpg" width="200" class="speaker-photo"/>
+<img alt="Danese Cooper photo" src="/images/events/speakers/Danese_Cooper.jpg" width="200" class="speaker-photo" />
 
 **Danese Cooper**
 
@@ -601,7 +594,7 @@ Ms. Danese Cooper has been the Head of Open Source Software at PayPal, Inc. sinc
 </div>
 
 <div class="clearfix">
-<img alt="Alexander Dais photo" src="/images/events/speakers/alexander-dais.jpg" width="200" class="speaker-photo"/>
+<img alt="Alexander Dais photo" src="/images/events/speakers/alexander-dais.jpg" width="200" class="speaker-photo" />
 
 **Alexander Dais**
 
@@ -610,7 +603,7 @@ Alexander is a software developer working for Bosch Engineering. Since 2005 he h
 </div>
 
 <div class="clearfix">
-<img alt="Michael Dorner photo" src="https://osr.cs.fau.de/wp-content/uploads/2016/06/me-253x300.jpg" width="200" class="speaker-photo"/>
+<img alt="Michael Dorner photo" src="https://osr.cs.fau.de/wp-content/uploads/2016/06/me-253x300.jpg" width="200" class="speaker-photo" />
 
 **Michael Dorner**
 
@@ -619,16 +612,15 @@ Michael Dorner, M.Sc., is a researcher and a PhD candidate at the Professorship 
 </div>
 
 <div class="clearfix">
-<img alt="Georg Gr&uuml;tter photo" src="/images/events/speakers/georg-gruetter.jpg" width="200" class="speaker-photo"/>
+<img alt="Georg Gr&uuml;tter photo" src="/images/events/speakers/georg-gruetter.jpg" width="200" class="speaker-photo" />
 
 **Georg Gr&uuml;tter**
-
 Georg Gr&uuml;tter is a Senior Expert at Bosch Corporate Research and a founding member of the InnerSource activities at Bosch. He is driving the adoption of InnerSource within Bosch as an evangelist and as a developer since 2009. Georg is also a passionate software craftsman with over 30 years of experience. Previously, he worked for Daimler Chrysler as a researcher, the Zurich System House as a software engineer, and the Line Information GmbH as a consultant. Georg has created two open source projects, <a href="http://xhsi.sourceforge.net" alt="XHSI">XHSI</a> and <a href="https://github.com/jenkinsci/stashnotifier-plugin" alt="stashNotifier">stashNotifier</a>. He is an avid recumbent cyclist, mountainbiker, stargazer and generally collects way too many hobbies.
 
 </div>
 
 <div class="clearfix">
-<img alt="Robert Hansel photo" src="http://cdn.oreillystatic.com/images/people/154/robert_hansel.jpg" width="200" class="speaker-photo"/>
+<img alt="Robert Hansel photo" src="http://cdn.oreillystatic.com/images/people/154/robert_hansel.jpg" width="200" class="speaker-photo" />
 
 **Robert Hansel**
 
@@ -637,7 +629,7 @@ Robert is a founding member of the Social Coding Initiative at Bosch, in which h
 </div>
 
 <div class="clearfix">
-<img alt="Israel Herraiz photo" src="/images/events/speakers/israel_herraiz.jpg" width="200" class="speaker-photo"/>
+<img alt="Israel Herraiz photo" src="/images/events/speakers/israel_herraiz.jpg" width="200" class="speaker-photo" />
 
 **Israel Herraiz**
 
@@ -646,7 +638,7 @@ Israel Herraiz is a senior data scientist at BBVA Data & Analytics and director 
 </div>
 
 <div class="clearfix">
-<img alt="Jorge Herrera photo" src="/images/events/speakers/jorge_herrera.jpg" width="200" class="speaker-photo"/>
+<img alt="Jorge Herrera photo" src="/images/events/speakers/jorge_herrera.jpg" width="200" class="speaker-photo" />
 
 **Jorge Herrera**
 
@@ -655,7 +647,7 @@ Jorge Herrera is an agility enthusiast, currently working as Technical Manager f
 </div>
 
 <div class="clearfix">
-<img alt="Daniel Izquierdo photo" src="/images/events/speakers/Picture_Pending.png" width="200" class="speaker-photo"/>
+<img alt="Daniel Izquierdo photo" src="/images/events/speakers/Picture_Pending.png" width="200" class="speaker-photo" />
 
 **Daniel Izquierdo**
 
@@ -664,7 +656,7 @@ Daniel Izquierdo Cortazar is a researcher and one of the founders of Bitergia, a
 </div>
 
 <div class="clearfix">
-<img alt="Jim Jagielski photo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/JimJag-with-Gumby.jpg/220px-JimJag-with-Gumby.jpg" width="200" class="speaker-photo"/>
+<img alt="Jim Jagielski photo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/JimJag-with-Gumby.jpg/220px-JimJag-with-Gumby.jpg" width="200" class="speaker-photo" />
 
 **Jim Jagielski**
 
@@ -673,7 +665,7 @@ Jim Jagielski is a well known and acknowledged expert and visionary in Open Sour
 </div>
 
 <div class="clearfix">
-<img alt="Rekha Joshi photo" src="/images/events/speakers/rekha-joshi.jpg" width="200" class="speaker-photo"/>
+<img alt="Rekha Joshi photo" src="/images/events/speakers/rekha-joshi.jpg" width="200" class="speaker-photo" />
 
 **Rekha Joshi**
 
@@ -682,7 +674,7 @@ Rekha Joshi is a Principal Engineer for Cloud and AI Platforms at Microsoft, whe
 </div>
 
 <div class="clearfix">
-<img alt="Sungjin Lee photo" src="/images/events/speakers/Picture_Pending.png" width="200" class="speaker-photo"/>
+<img alt="Sungjin Lee photo" src="/images/events/speakers/Picture_Pending.png" width="200" class="speaker-photo" />
 
 **Sungjin Lee**
 
@@ -691,7 +683,7 @@ Sungjin is the Program Manager for Open Source Technology in Samsung Research. H
 </div>
 
 <div class="clearfix">
-<img alt="Shelly Nezri photo" src="/images/events/speakers/profile-pic-shellynezri.jpg" width="200" class="speaker-photo"/>
+<img alt="Shelly Nezri photo" src="/images/events/speakers/profile-pic-shellynezri.jpg" width="200" class="speaker-photo" />
 
 **Shelly Nezri**
 
@@ -700,7 +692,7 @@ Shelly Nezri is an open source and inner source evangelist, in charge of fun and
 </div>
 
 <div class="clearfix">
-<img alt="Johannes Nicolai photo" src="https://www.xing.com/image/8_3_a_8e5299f85_6957618_5/johannes-nicolai-foto.1024x1024.jpg" width="200" class="speaker-photo"/>
+<img alt="Johannes Nicolai photo" src="https://www.xing.com/image/8_3_a_8e5299f85_6957618_5/johannes-nicolai-foto.1024x1024.jpg" width="200" class="speaker-photo" />
 
 **Johannes Nicolai**
 
@@ -709,7 +701,7 @@ Johannes is an Open Source enthusiast working for GitHub. He is helping large co
 </div>
 
 <div class="clearfix">
-<img alt="Ori Orenbach photo" src="https://secure.meetupstatic.com/photos/member/3/0/7/3/highres_270252403.jpeg" width="200" class="speaker-photo"/>
+<img alt="Ori Orenbach photo" src="https://secure.meetupstatic.com/photos/member/3/0/7/3/highres_270252403.jpeg" width="200" class="speaker-photo" />
 
 **Ori Orenbach**
 
@@ -718,7 +710,7 @@ I am a development manager of a technology foundations group at Amdocs, developi
 </div>
 
 <div class="clearfix">
-<img alt="Russ Rutledge photo" src="/images/events/speakers/russ-rutledge.jpeg" width="200" class="speaker-photo"/>
+<img alt="Russ Rutledge photo" src="/images/events/speakers/russ-rutledge.jpeg" width="200" class="speaker-photo" />
 
 **Russ Rutledge**
 
@@ -729,7 +721,7 @@ Prior to this role Russ ran another successful startup delivering JavaScript con
 </div>
 
 <div class="clearfix">
-<img alt="Klaas-Jan Stol photo" src="/images/events/speakers/Picture_Pending.png" width="200" class="speaker-photo"/>
+<img alt="Klaas-Jan Stol photo" src="/images/events/speakers/Picture_Pending.png" width="200" class="speaker-photo" />
 
 **Klaas-Jan Stol**
 
@@ -738,7 +730,7 @@ Dr. Klaas-Jan Stol is a Lecturer with the School of Computer Science and Technol
 </div>
 
 <div class="clearfix">
-<img alt="Kristof Van Tomme photo" src="/images/events/speakers/Picture_Pending.png" width="200" class="speaker-photo"/>
+<img alt="Kristof Van Tomme photo" src="/images/events/speakers/Picture_Pending.png" width="200" class="speaker-photo" />
 
 **Kristof Van Tomme**
 
@@ -749,7 +741,7 @@ For a few years Kristof has been building bridges between the documentation, API
 </div>
 
 <div class="clearfix">
-<img alt="Tim Yao photo" src="https://images.gr-assets.com/authors/1449955011p5/6569881.jpg" width="200" class="speaker-photo"/>
+<img alt="Tim Yao photo" src="https://images.gr-assets.com/authors/1449955011p5/6569881.jpg" width="200" class="speaker-photo" />
 
 **Tim Yao**
 
@@ -781,12 +773,9 @@ The three key reasons to attend the InnerSource Common Summits are:
 
 This Summit is hosted by Robert Bosch GmbH on the research campus in Renningen.
 
-Robert Bosch GmbH<br/>
-Robert-Bosch-Campus 1<br/>
-71272 Renningen<br/>
-Germany<br/>
+Robert Bosch GmbH<br/> Robert-Bosch-Campus 1<br/> 71272 Renningen<br/> Germany<br/>
 
-<img alt="Renningen" width="600" src="/images/events/speakers/renningen.png"/>
+<img alt="Renningen" width="600" src="/images/events/speakers/renningen.png" />
 
 ### Food
 
