@@ -3,7 +3,7 @@ type: book
 title: 'インナーソースプロジェクトの管理方法'
 image: "/images/learn/books/managing-innersource-projects-cover-thumb.jpg"
 weight: 5
-summary: インナーソースのプロジェクトを管理する方法とは? この本では、Daniel Izquierdo氏と José Manrique López氏が、基本的なインフラストラクチャとに、企業にインナーソースの方法論を導入する際に有用であるメトリックを説明しています。
+summary: "インナーソースのプロジェクトを管理する方法とは? この本では、Daniel Izquierdo氏と José Manrique López氏が、基本的なインフラストラクチャとに、企業にインナーソースの方法論を導入する際に有用であるメトリックを説明しています。"
 book_author: Daniel Izquierdo, José Manrique López
 book_publish_date: 2018年
 book_publisher: InnerSource Commons
@@ -20,5 +20,4 @@ You can find more information about the process in the contributing section.
 
 Each chapter in the book is authored and reviewed by different people. That information can be found at the beginning of each chapter. This initiative is fostered by [Bitergia](https://bitergia.com/) although given some technical issues, we finally decided to open this under a personal repository.
 
-For further questions, please contact José Manrique López or Daniel Izquierdo:
-(jsmanrique|dizquierdo) at bitergia dot com.
+For further questions, please contact José Manrique López or Daniel Izquierdo: (jsmanrique|dizquierdo) at bitergia dot com.
