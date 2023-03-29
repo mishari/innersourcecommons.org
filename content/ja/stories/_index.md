@@ -1,10 +1,10 @@
 ---
 layout: page
 title: "InnerSource の事例"
-subtitle: "InnerSource Commons のコミュニティは、500の組織から1500以上の加入者を持っています。以下にリストされているのは、InnerSource の使用事例を公開している組織の例です。"
+subtitle: "InnerSource Commons のコミュニティは、500の組織から1500以上の加入者を持っています。 以下にリストされているのは、InnerSource の使用事例を公開している組織の例です。"
 image: "/images/learn/InnerSourceInAction.jpg"
 aliases:
-- /community/action/
+  - /community/action/
 ---
   <div class="container">
     <div class="row justify-content-center align-items-center">
@@ -43,6 +43,9 @@ aliases:
       {{< /company >}}
       {{< company name="BBC" image="/images/logos/bbc.png" video="https://www.youtube.com/watch?v=pEGMxe6xz-0" author_name="Steph Egan" author_title="Software Engineering Team Lead" >}}
       Our tools have been built been built from the ground up with an expectation of InnerSource … The way that we encourage that in a very disparate organization is mostly word of mouth and clear documentation.
+      {{< /company >}}
+      {{< company name="BBVA AI Factory" image="/images/logos/BBVA_AI_factory.png" article="https://www.bbvaaifactory.com/mercury-acelerando-la-reutilizacion-en-ciencia-de-datos-dentro-de-bbva/" author_name="Rafael Hernandez Murcia" author_title="Senior Manager Data Scientist" >}}
+      Thanks to an InnerSource strategy we are scaling the reusability of Data Science code in a wide range of countries and business areas at BBVA. To achieve this, we developed a Python library, named Mercury.
       {{< /company >}}
       {{< company name="BCG Gamma" image="/images/logos/bcg.png" article="https://github.com/customer-stories/bcg-gamma" >}}
       {{< /company >}}
@@ -185,6 +188,8 @@ aliases:
       {{< company name="Philips" image="/images/logos/philips.png" article="https://www.infoq.com/articles/inner-source-open-source-development-practices/" >}}
       {{< /company >}}
       {{< company name="Plaid" image="/images/logos/plaid.png" article="https://github.com/customer-stories/plaid" >}}
+      {{< /company >}}
+      {{< company name="Publicis Sapient" image="/images/logos/publicis sapient.png" article="https://www.publicissapient.com/insights/decoding-organizational-agility-with-innersource?utm_medium=organic-social&utm_source=twitter&userID=aa0e6055-f6dd-4611-9c21-ea56d77cb680&utm_category=Brand&utm_campaign=everyonesocial&es_id=d19e3b636b">}}
       {{< /company >}}
       {{< company name="Royal Bank of Canada" image="/images/logos/rbc.png" article="https://www.finos.org/blog/innersource-as-the-first-step-toward-open-source-anthony-vacca-rbc" video="https://www.youtube.com/watch?v=QbJ4VFk8DwA">}}
       {{< /company >}}
